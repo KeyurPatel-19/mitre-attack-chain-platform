@@ -1,0 +1,10 @@
+{
+  "dataset": "enterprise",
+  "node_count": 1757,
+  "edge_count": 19190,
+  "cluster_count": 5,
+  "anomaly_count": 88,
+  "datasets_present": [
+    "enterprise"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "dataset": "ics",
+  "node_count": 191,
+  "edge_count": 598,
+  "cluster_count": 3,
+  "anomaly_count": 10,
+  "datasets_present": [
+    "ics"
+  ]
+}
