@@ -1,0 +1,24 @@
+{
+  "dataset": "ics",
+  "file": "/Users/hely/Desktop/YT2_mitre_attack_chain_platform/Data/cleaned_data/ics-attack-cleaned.json",
+  "total_objects": 794,
+  "duplicate_id_count": 0,
+  "missing_id_count": 0,
+  "missing_type_count": 0,
+  "broken_relationship_count": 0,
+  "object_type_counts": {
+    "course-of-action": 52,
+    "malware": 23,
+    "x-mitre-tactic": 12,
+    "attack-pattern": 83,
+    "campaign": 7,
+    "intrusion-set": 14,
+    "relationship": 603
+  },
+  "relationship_type_counts": {
+    "uses": 267,
+    "mitigates": 331,
+    "attributed-to": 5
+  },
+  "sample_broken_relationships": []
+}

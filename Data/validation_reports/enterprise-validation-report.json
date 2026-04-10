@@ -1,0 +1,26 @@
+{
+  "dataset": "enterprise",
+  "file": "/Users/hely/Desktop/YT2_mitre_attack_chain_platform/Data/cleaned_data/enterprise-attack-cleaned.json",
+  "total_objects": 20972,
+  "duplicate_id_count": 0,
+  "missing_id_count": 0,
+  "missing_type_count": 0,
+  "broken_relationship_count": 0,
+  "object_type_counts": {
+    "course-of-action": 44,
+    "malware": 693,
+    "tool": 91,
+    "x-mitre-tactic": 14,
+    "attack-pattern": 691,
+    "intrusion-set": 172,
+    "campaign": 52,
+    "relationship": 19215
+  },
+  "relationship_type_counts": {
+    "uses": 17270,
+    "mitigates": 1445,
+    "subtechnique-of": 475,
+    "attributed-to": 25
+  },
+  "sample_broken_relationships": []
+}

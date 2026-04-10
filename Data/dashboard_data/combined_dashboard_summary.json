@@ -1,0 +1,12 @@
+{
+  "dataset": "combined",
+  "node_count": 2185,
+  "edge_count": 21422,
+  "cluster_count": 5,
+  "anomaly_count": 110,
+  "datasets_present": [
+    "enterprise",
+    "ics",
+    "mobile"
+  ]
+}

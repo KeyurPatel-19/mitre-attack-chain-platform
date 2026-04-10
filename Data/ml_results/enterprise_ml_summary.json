@@ -1,0 +1,29 @@
+{
+  "dataset": "enterprise",
+  "rows": 1757,
+  "ml_columns_used": [
+    "in_degree",
+    "out_degree",
+    "total_degree",
+    "degree_centrality",
+    "in_degree_centrality",
+    "out_degree_centrality",
+    "betweenness_centrality",
+    "closeness_centrality",
+    "community_id",
+    "platform_count",
+    "domain_count",
+    "tactic_count",
+    "name_length",
+    "type_code"
+  ],
+  "cluster_count": 5,
+  "anomaly_count": 88,
+  "cluster_distribution": {
+    "0": 942,
+    "1": 31,
+    "2": 665,
+    "3": 4,
+    "4": 115
+  }
+}

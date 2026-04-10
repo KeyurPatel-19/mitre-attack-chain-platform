@@ -1,0 +1,26 @@
+{
+  "dataset": "mobile",
+  "file": "/Users/hely/Desktop/YT2_mitre_attack_chain_platform/Data/cleaned_data/mobile-attack-cleaned.json",
+  "total_objects": 1926,
+  "duplicate_id_count": 0,
+  "missing_id_count": 0,
+  "missing_type_count": 0,
+  "broken_relationship_count": 0,
+  "object_type_counts": {
+    "course-of-action": 13,
+    "malware": 120,
+    "tool": 2,
+    "x-mitre-tactic": 12,
+    "attack-pattern": 124,
+    "campaign": 3,
+    "intrusion-set": 17,
+    "relationship": 1635
+  },
+  "relationship_type_counts": {
+    "uses": 1420,
+    "mitigates": 167,
+    "subtechnique-of": 47,
+    "attributed-to": 1
+  },
+  "sample_broken_relationships": []
+}

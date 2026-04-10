@@ -1,0 +1,27 @@
+{
+  "dataset": "enterprise",
+  "input_file": "/Users/hely/Desktop/YT2_mitre_attack_chain_platform/Data/raw_data/enterprise-attack-18.1.json",
+  "output_file": "/Users/hely/Desktop/YT2_mitre_attack_chain_platform/Data/cleaned_data/enterprise-attack-cleaned.json",
+  "total_objects_before": 24772,
+  "total_objects_after_first_pass": 21805,
+  "total_objects_after_final_cleaning": 20972,
+  "removed": {
+    "revoked": 140,
+    "deprecated": 287,
+    "wrong_type": 2540,
+    "missing_id": 0,
+    "missing_type": 0,
+    "invalid_relationship": 0,
+    "orphan_relationship": 833
+  },
+  "remaining_object_types": {
+    "course-of-action": 44,
+    "malware": 693,
+    "tool": 91,
+    "x-mitre-tactic": 14,
+    "attack-pattern": 691,
+    "intrusion-set": 172,
+    "campaign": 52,
+    "relationship": 19215
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "dataset": "combined",
+  "rows": 2185,
+  "ml_columns_used": [
+    "in_degree",
+    "out_degree",
+    "total_degree",
+    "degree_centrality",
+    "in_degree_centrality",
+    "out_degree_centrality",
+    "betweenness_centrality",
+    "closeness_centrality",
+    "community_id",
+    "platform_count",
+    "domain_count",
+    "tactic_count",
+    "name_length",
+    "type_code"
+  ],
+  "cluster_count": 5,
+  "anomaly_count": 110,
+  "cluster_distribution": {
+    "0": 36,
+    "1": 1134,
+    "2": 874,
+    "3": 31,
+    "4": 110
+  }
+}

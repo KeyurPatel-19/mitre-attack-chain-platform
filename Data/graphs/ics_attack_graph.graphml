@@ -1,0 +1,4122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d8" for="edge" attr.name="dataset" attr.type="string"/>
+<key id="d7" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d6" for="node" attr.name="tactics" attr.type="string"/>
+<key id="d5" for="node" attr.name="domains" attr.type="string"/>
+<key id="d4" for="node" attr.name="platforms" attr.type="string"/>
+<key id="d3" for="node" attr.name="dataset" attr.type="string"/>
+<key id="d2" for="node" attr.name="external_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="directed"><node id="course-of-action--059ba11e-e3dc-49aa-84ca-88197f40d4ea">
+  <data key="d0">Application Isolation and Sandboxing</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0948</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17">
+  <data key="d0">Filter Network Traffic</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0937</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--143b4398-3222-480a-b6a4-e131bc2d3144">
+  <data key="d0">Restrict Web-Based Content</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0921</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--1cbcceef-3233-4062-aa86-ec91afe39517">
+  <data key="d0">Validate Program Inputs</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0818</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291">
+  <data key="d0">Network Segmentation</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0930</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--2ab9fc6d-3cf6-4d7b-85f1-3ad6949233b3">
+  <data key="d0">Restrict Library Loading</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0944</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--2f0160b7-e982-49d7-9612-f19b810f1722">
+  <data key="d0">Active Directory Configuration</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0915</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--3172222b-4983-43f7-8983-753ded4f13bc">
+  <data key="d0">Network Intrusion Prevention</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0931</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--3222a807-521b-4a1a-aa13-f1cda45734b3">
+  <data key="d0">Restrict Registry Permissions</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0924</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--337c4e2a-21a7-4d9a-bfee-9efd6cebf0e5">
+  <data key="d0">Data Loss Prevention</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0803</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3">
+  <data key="d0">Access Management</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0801</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--469b78dd-a54d-4f7c-8c3b-4a1dd916b433">
+  <data key="d0">Mitigation Limited or Not Effective</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0816</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--49363b74-d506-4342-bd63-320586ebadb9">
+  <data key="d0">Exploit Protection</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0950</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--49b306c1-a046-42c5-a4d2-30f264ada110">
+  <data key="d0">Limit Access to Resource Over Network</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0935</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--4fa717d9-cabe-47c8-8cdd-86e9e2e37f30">
+  <data key="d0">Execution Prevention</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0938</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--52c7a1a9-3a78-4528-a44f-cd7b0fa3541a">
+  <data key="d0">Static Network Configuration</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0814</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--5d97c693-e054-48ba-a3a3-eaf6942dfb65">
+  <data key="d0">Password Policies</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0927</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--622fe4d4-0e8e-4d17-9c25-6c9cef1f15d5">
+  <data key="d0">Privileged Account Management</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0926</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0">
+  <data key="d0">Human User Authentication</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0804</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--6a02e38a-9629-40c0-8c7d-e98e3470315c">
+  <data key="d0">SSL/TLS Inspection</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0920</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--71eb7dad-07eb-4bbc-9df0-ac57bf2fba4a">
+  <data key="d0">Code Signing</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0945</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549">
+  <data key="d0">Software Process and Device Authentication</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0813</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--7f153c28-e5f1-4764-88fb-eea1d9b0ad4a">
+  <data key="d0">Encrypt Network Traffic</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0808</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--86b455f2-fb63-4043-93a8-32a3a7703a02">
+  <data key="d0">Account Use Policies</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0936</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--8a3aadd0-b5f4-433a-800e-4893e4196bb7">
+  <data key="d0">Application Developer Guidance</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0913</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--8ac1d6e1-b07f-476a-9732-84984ebc2405">
+  <data key="d0">Boot Integrity</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0946</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--8bc4a54e-810c-4600-8b6c-08fa8413a401">
+  <data key="d0">Mechanical Protection Layers</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0805</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--97f33c84-8508-45b9-8a1d-cac921828c9e">
+  <data key="d0">Update Software</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0951</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--98aa0d61-fc9d-4b2d-8f18-b25d03549f53">
+  <data key="d0">Watchdog Timers</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0815</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--99c746d7-a08a-4169-94f9-b8c0dad716fa">
+  <data key="d0">Operational Information Confidentiality</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0809</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--9a945a29-5233-4422-a9e3-3e957b0e8bce">
+  <data key="d0">Operating System Configuration</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0928</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--9e3adcad-0b8f-4ecc-a2f3-06f607f53bf0">
+  <data key="d0">Limit Hardware Installation</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0934</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--9f99fcfd-772e-4e63-9d39-e45612e546dc">
+  <data key="d0">Encrypt Sensitive Information</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0941</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a">
+  <data key="d0">Network Allowlists</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0807</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--ac8f3492-7fbb-4a0a-b0b4-b75ec676136c">
+  <data key="d0">Supply Chain Management</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0817</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--ad12819e-3211-4291-b360-069f280cff0a">
+  <data key="d0">Data Backup</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0953</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--b11cad63-ef30-4eb8-af0d-6cc46eef3f3e">
+  <data key="d0">Out-of-Band Communications Channel</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0810</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--bcf91ebc-f316-4e19-b2f6-444e9940c697">
+  <data key="d0">Audit</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0947</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac">
+  <data key="d0">Communication Authenticity</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0802</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--d0909119-2f71-4923-87db-b649881672d7">
+  <data key="d0">Disable or Remove Feature or Program</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0942</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--d48b79b2-076d-483e-949c-0d38aa347499">
+  <data key="d0">Threat Intelligence Program</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0919</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--da44255d-85c5-492c-baf3-ee823d44f848">
+  <data key="d0">Safety Instrumented Systems</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0812</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--dc61c280-c29d-44e5-a960-c0dd1623d2ba">
+  <data key="d0">User Training</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0917</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--ddf3e568-f065-49e2-9106-42029a28ddbd">
+  <data key="d0">Multi-factor Authentication</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0932</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--de0bc375-50e1-4e26-a342-a8ff8c9d3037">
+  <data key="d0">Vulnerability Scanning</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0916</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--e0d38502-decb-481d-ad8b-b8f0a0c330bd">
+  <data key="d0">Authorization Enforcement</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0800</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--e57ebc6d-785f-40c8-adb1-b5b5e09b3b48">
+  <data key="d0">User Account Management</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0918</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--f0f5c87a-a58d-440a-b3b5-ca679d98c6dd">
+  <data key="d0">Redundancy of Service</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0811</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--f9fcb3ec-6de0-4559-8cd9-ef1c0c7d1971">
+  <data key="d0">Restrict File and Directory Permissions</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0922</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--facb8840-ebe7-49f1-b464-8ef6c8131e21">
+  <data key="d0">Software Configuration</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0954</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--faf2b40e-5981-433f-aa46-17458e0026f7">
+  <data key="d0">Antivirus/Antimalware</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0949</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="course-of-action--fce6866f-9a87-4d3e-a73c-f02d8937fe0e">
+  <data key="d0">Minimize Wireless Signal Propagation</data>
+  <data key="d1">course-of-action</data>
+  <data key="d2">M0806</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--00e7d565-9883-4ee5-b642-8fd17fd6a3f5">
+  <data key="d0">EKANS</data>
+  <data key="d1">malware</data>
+  <data key="d2">S0605</data>
+  <data key="d3">ics</data>
+  <data key="d4">Windows</data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--083bb47b-02c8-4423-81a2-f9ef58572974">
+  <data key="d0">Backdoor.Oldrea</data>
+  <data key="d1">malware</data>
+  <data key="d2">S0093</data>
+  <data key="d3">ics</data>
+  <data key="d4">Windows</data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4">
+  <data key="d0">Stuxnet</data>
+  <data key="d1">malware</data>
+  <data key="d2">S0603</data>
+  <data key="d3">ics</data>
+  <data key="d4">Windows</data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--2eaa5319-5e1e-4dd7-bbc4-566fced3964a">
+  <data key="d0">Bad Rabbit</data>
+  <data key="d1">malware</data>
+  <data key="d2">S0606</data>
+  <data key="d3">ics</data>
+  <data key="d4">Windows</data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--4dcff507-5af8-47ce-964a-8d9569e9ccfe">
+  <data key="d0">PLC-Blaster</data>
+  <data key="d1">malware</data>
+  <data key="d2">S1006</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--54cc1d4f-5c53-4f0e-9ef5-11b4998e82e4">
+  <data key="d0">BlackEnergy</data>
+  <data key="d1">malware</data>
+  <data key="d2">S0089</data>
+  <data key="d3">ics</data>
+  <data key="d4">Windows</data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--5719af9d-6b16-46f9-9b28-fb019541ddbb">
+  <data key="d0">NotPetya</data>
+  <data key="d1">malware</data>
+  <data key="d2">S0368</data>
+  <data key="d3">ics</data>
+  <data key="d4">Windows</data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--58eddbaf-7416-419a-ad7b-e65b9d4c3b55">
+  <data key="d0">Conficker</data>
+  <data key="d1">malware</data>
+  <data key="d2">S0608</data>
+  <data key="d3">ics</data>
+  <data key="d4">Windows</data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--5af7a825-2d9f-400d-931a-e00eb9e27f48">
+  <data key="d0">LockerGoga</data>
+  <data key="d1">malware</data>
+  <data key="d2">S0372</data>
+  <data key="d3">ics</data>
+  <data key="d4">Windows</data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--6108f800-10b8-4090-944e-be579f01263d">
+  <data key="d0">VPNFilter</data>
+  <data key="d1">malware</data>
+  <data key="d2">S1010</data>
+  <data key="d3">ics</data>
+  <data key="d4">Network Devices | Linux</data>
+  <data key="d5">ics-attack | enterprise-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--68dca94f-c11d-421e-9287-7c501108e18c">
+  <data key="d0">Duqu</data>
+  <data key="d1">malware</data>
+  <data key="d2">S0038</data>
+  <data key="d3">ics</data>
+  <data key="d4">Windows</data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--6a0d0ea9-b2c4-43fe-a552-ac41a3009dc5">
+  <data key="d0">Industroyer2</data>
+  <data key="d1">malware</data>
+  <data key="d2">S1072</data>
+  <data key="d3">ics</data>
+  <data key="d4">Field Controller/RTU/PLC/IED | Engineering Workstation</data>
+  <data key="d5">ics-attack | enterprise-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--75ecdbf1-c2bb-4afc-a3f9-c8da4de8c661">
+  <data key="d0">WannaCry</data>
+  <data key="d1">malware</data>
+  <data key="d2">S0366</data>
+  <data key="d3">ics</data>
+  <data key="d4">Windows</data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--80099a91-4c86-4bea-9ccb-dac55d61960e">
+  <data key="d0">Triton</data>
+  <data key="d1">malware</data>
+  <data key="d2">S1009</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--931e2489-8078-4f9f-85b2-a9211950e75b">
+  <data key="d0">Fuxnet</data>
+  <data key="d1">malware</data>
+  <data key="d2">S1157</data>
+  <data key="d3">ics</data>
+  <data key="d4">Input/Output Server | Control Server</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--a020a61c-423f-4195-8c46-ba1d21abba37">
+  <data key="d0">Ryuk</data>
+  <data key="d1">malware</data>
+  <data key="d2">S0446</data>
+  <data key="d3">ics</data>
+  <data key="d4">Windows</data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--a4a98eab-b691-45d9-8c48-869ef8fefd57">
+  <data key="d0">ACAD/Medre.A</data>
+  <data key="d1">malware</data>
+  <data key="d2">S1000</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--ac61f1f9-7bb1-465e-9b8a-c2ce8e88baf5">
+  <data key="d0">REvil</data>
+  <data key="d1">malware</data>
+  <data key="d2">S0496</data>
+  <data key="d3">ics</data>
+  <data key="d4">Windows</data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--b34df04a-9d30-4d84-a03f-0d536ee19a05">
+  <data key="d0">FrostyGoop</data>
+  <data key="d1">malware</data>
+  <data key="d2">S1165</data>
+  <data key="d3">ics</data>
+  <data key="d4">Control Server | Field Controller/RTU/PLC/IED</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b">
+  <data key="d0">INCONTROLLER</data>
+  <data key="d1">malware</data>
+  <data key="d2">S1045</data>
+  <data key="d3">ics</data>
+  <data key="d4">Field Controller/RTU/PLC/IED | Safety Instrumented System/Protection Relay | Engineering Workstation | Windows</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--e221eb77-1502-4129-af1d-fe1ad55e7ec6">
+  <data key="d0">KillDisk</data>
+  <data key="d1">malware</data>
+  <data key="d2">S0607</data>
+  <data key="d3">ics</data>
+  <data key="d4">Linux | Windows</data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--e401d4fe-f0c9-44f0-98e6-f93487678808">
+  <data key="d0">Industroyer</data>
+  <data key="d1">malware</data>
+  <data key="d2">S0604</data>
+  <data key="d3">ics</data>
+  <data key="d4">Windows</data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="malware--ff6840c9-4c87-4d07-bbb6-9f50aa33d498">
+  <data key="d0">Flame</data>
+  <data key="d1">malware</data>
+  <data key="d2">S0143</data>
+  <data key="d3">ics</data>
+  <data key="d4">Windows</data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="x-mitre-tactic--298fe907-7931-4fd2-8131-2814dd493134">
+  <data key="d0">Inhibit Response Function</data>
+  <data key="d1">x-mitre-tactic</data>
+  <data key="d2">TA0107</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="x-mitre-tactic--33752ae7-f875-4f43-bdb6-d8d02d341046">
+  <data key="d0">Privilege Escalation</data>
+  <data key="d1">x-mitre-tactic</data>
+  <data key="d2">TA0111</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="x-mitre-tactic--51c25a9e-8615-40c0-8afd-1da578847924">
+  <data key="d0">Lateral Movement</data>
+  <data key="d1">x-mitre-tactic</data>
+  <data key="d2">TA0109</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="x-mitre-tactic--696af733-728e-49d7-8261-75fdc590f453">
+  <data key="d0">Discovery</data>
+  <data key="d1">x-mitre-tactic</data>
+  <data key="d2">TA0102</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="x-mitre-tactic--69da72d2-f550-41c5-ab9e-e8255707f28a">
+  <data key="d0">Initial Access</data>
+  <data key="d1">x-mitre-tactic</data>
+  <data key="d2">TA0108</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="x-mitre-tactic--77542f83-70d0-40c2-8a9d-ad2eb8b00279">
+  <data key="d0">Impact</data>
+  <data key="d1">x-mitre-tactic</data>
+  <data key="d2">TA0105</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="x-mitre-tactic--78f1d2ae-a579-44c4-8fc5-3e1775c73fac">
+  <data key="d0">Persistence</data>
+  <data key="d1">x-mitre-tactic</data>
+  <data key="d2">TA0110</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="x-mitre-tactic--93bf9a8e-b14c-4587-b6d5-9efc7c12eb45">
+  <data key="d0">Execution</data>
+  <data key="d1">x-mitre-tactic</data>
+  <data key="d2">TA0104</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="x-mitre-tactic--97c8ff73-bd14-4b6c-ac32-3d91d2c41e3f">
+  <data key="d0">Command and Control</data>
+  <data key="d1">x-mitre-tactic</data>
+  <data key="d2">TA0101</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="x-mitre-tactic--b2a67b1e-913c-46f6-b219-048a90560bb9">
+  <data key="d0">Collection</data>
+  <data key="d1">x-mitre-tactic</data>
+  <data key="d2">TA0100</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="x-mitre-tactic--ddf70682-f3ce-479c-a9a4-7eadf9bfead7">
+  <data key="d0">Evasion</data>
+  <data key="d1">x-mitre-tactic</data>
+  <data key="d2">TA0103</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="x-mitre-tactic--ff048b6c-b872-4218-b68c-3735ebd1f024">
+  <data key="d0">Impair Process Control</data>
+  <data key="d1">x-mitre-tactic</data>
+  <data key="d2">TA0106</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="attack-pattern--008b8f56-6107-48be-aa9f-746f927dbb61">
+  <data key="d0">Block Command Message</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0803</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">inhibit-response-function</data>
+</node>
+<node id="attack-pattern--063b5b92-5361-481a-9c3f-95492ed9a2d8">
+  <data key="d0">Service Stop</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0881</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">inhibit-response-function</data>
+</node>
+<node id="attack-pattern--097924ce-a9a9-4039-8591-e0deedfb8722">
+  <data key="d0">Modify Parameter</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0836</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">impair-process-control</data>
+</node>
+<node id="attack-pattern--09a61657-46e1-439e-b3ed-3e4556a78243">
+  <data key="d0">Modify Controller Tasking</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0821</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">execution</data>
+</node>
+<node id="attack-pattern--0fe075d5-beac-4d02-b93e-0f874997db72">
+  <data key="d0">Wireless Sniffing</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0887</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">discovery | collection</data>
+</node>
+<node id="attack-pattern--138979ba-0430-4de6-a128-2fc0b056ba36">
+  <data key="d0">Loss of View</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0829</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">impact</data>
+</node>
+<node id="attack-pattern--19a71d1e-6334-4233-8260-b749cae37953">
+  <data key="d0">Activate Firmware Update Mode</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0800</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">inhibit-response-function</data>
+</node>
+<node id="attack-pattern--1af9e3fd-2bcc-414d-adbd-fe3b95c02ca1">
+  <data key="d0">Manipulation of Control</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0831</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">impact</data>
+</node>
+<node id="attack-pattern--1b22b676-9347-4c55-9a35-ef0dc653db5b">
+  <data key="d0">Denial of Service</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0814</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">inhibit-response-function</data>
+</node>
+<node id="attack-pattern--1c478716-71d9-46a4-9a53-fa5d576adb60">
+  <data key="d0">Block Serial COM</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0805</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">inhibit-response-function</data>
+</node>
+<node id="attack-pattern--1c5cf58c-a34a-40d7-82f4-f987cdfc2b91">
+  <data key="d0">System Binary Proxy Execution</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0894</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">evasion</data>
+</node>
+<node id="attack-pattern--24a9253e-8948-4c98-b751-8e2aee53127c">
+  <data key="d0">Command-Line Interface</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0807</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">execution</data>
+</node>
+<node id="attack-pattern--25852363-5968-4673-b81d-341d5ed90bd1">
+  <data key="d0">Point &amp; Tag Identification</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0861</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">collection</data>
+</node>
+<node id="attack-pattern--25dfc8ad-bd73-4dfd-84a9-3c3d383f76e9">
+  <data key="d0">Device Restart/Shutdown</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0816</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">inhibit-response-function</data>
+</node>
+<node id="attack-pattern--2736b752-4ec5-4421-a230-8977dea7649c">
+  <data key="d0">User Execution</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0863</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">execution</data>
+</node>
+<node id="attack-pattern--2877063e-1851-48d2-bcc6-bc1d2733157e">
+  <data key="d0">Wireless Compromise</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0860</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">initial-access</data>
+</node>
+<node id="attack-pattern--2883c520-7957-46ca-89bd-dab1ad53b601">
+  <data key="d0">Change Operating Mode</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0858</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">execution | evasion</data>
+</node>
+<node id="attack-pattern--2900bbd8-308a-4274-b074-5b8bde8347bc">
+  <data key="d0">Alarm Suppression</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0878</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">inhibit-response-function</data>
+</node>
+<node id="attack-pattern--2aa406ed-81c3-4c1d-ba83-cfbee5a2847a">
+  <data key="d0">Detect Operating Mode</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0868</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">collection</data>
+</node>
+<node id="attack-pattern--2bb4d762-bf4a-4bc3-9318-15cc6a354163">
+  <data key="d0">Loss of Protection</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0837</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">impact</data>
+</node>
+<node id="attack-pattern--2d0d40ad-22fa-4cc8-b264-072557e1364b">
+  <data key="d0">Monitor Process State</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0801</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">collection</data>
+</node>
+<node id="attack-pattern--2dc2b567-8821-49f9-9045-8740f3d0b958">
+  <data key="d0">Scripting</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0853</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">execution</data>
+</node>
+<node id="attack-pattern--2fedbe69-581f-447d-8a78-32ee7db939a9">
+  <data key="d0">Remote System Information Discovery</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0888</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">discovery</data>
+</node>
+<node id="attack-pattern--3067b85e-271e-4bc5-81ad-ab1a81d411e3">
+  <data key="d0">Program Upload</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0845</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">collection</data>
+</node>
+<node id="attack-pattern--32632a95-6856-47b9-9ab7-fea5cd7dce00">
+  <data key="d0">Exploit Public-Facing Application</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0819</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">initial-access</data>
+</node>
+<node id="attack-pattern--3405891b-16aa-4bd7-bd7c-733501f9b20f">
+  <data key="d0">Data from Information Repositories</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0811</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">collection</data>
+</node>
+<node id="attack-pattern--35392fb4-a31d-4c6a-b9f2-1c65b7f5e6b9">
+  <data key="d0">Transient Cyber Asset</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0864</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">initial-access</data>
+</node>
+<node id="attack-pattern--36e9f5bc-ac13-4da4-a2f4-01f4877d9004">
+  <data key="d0">Manipulate I/O Image</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0835</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">inhibit-response-function</data>
+</node>
+<node id="attack-pattern--38213338-1aab-479d-949b-c81b66ccca5c">
+  <data key="d0">Network Sniffing</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0842</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">discovery</data>
+</node>
+<node id="attack-pattern--3b6b9246-43f8-4c69-ad7a-2b11cfe0a0d9">
+  <data key="d0">Rootkit</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0851</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">evasion | inhibit-response-function</data>
+</node>
+<node id="attack-pattern--3de230d4-3e42-4041-b089-17e1128feded">
+  <data key="d0">Automated Collection</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0802</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">collection</data>
+</node>
+<node id="attack-pattern--3f1f4ccb-9be2-4ff8-8f69-dd972221169b">
+  <data key="d0">Block Reporting Message</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0804</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">inhibit-response-function</data>
+</node>
+<node id="attack-pattern--40b300ba-f553-48bf-862e-9471b220d455">
+  <data key="d0">Unauthorized Command Message</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0855</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">impair-process-control</data>
+</node>
+<node id="attack-pattern--493832d9-cea6-4b63-abe7-9a65a6473675">
+  <data key="d0">Data Destruction</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0809</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">inhibit-response-function</data>
+</node>
+<node id="attack-pattern--4c2e1408-9d68-4187-8e6b-a77bc52700ec">
+  <data key="d0">Manipulation of View</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0832</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">impact</data>
+</node>
+<node id="attack-pattern--53a26eee-1080-4d17-9762-2027d5a1b805">
+  <data key="d0">Indicator Removal on Host</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0872</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">evasion</data>
+</node>
+<node id="attack-pattern--53a48c74-0025-45f4-b04a-baa853df8204">
+  <data key="d0">I/O Image</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0877</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">collection</data>
+</node>
+<node id="attack-pattern--56ddc820-6cfb-407f-850b-52c035d123ac">
+  <data key="d0">Denial of View</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0815</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">impact</data>
+</node>
+<node id="attack-pattern--5a2610f6-9fff-41e1-bc27-575ca20383d4">
+  <data key="d0">Execution through API</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0871</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">execution</data>
+</node>
+<node id="attack-pattern--5e0f75da-e108-4688-a6de-a4f07cc2cbe3">
+  <data key="d0">Supply Chain Compromise</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0862</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">initial-access</data>
+</node>
+<node id="attack-pattern--5fa00fdd-4a55-4191-94a0-564181d7fec2">
+  <data key="d0">Loss of Safety</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0880</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">impact</data>
+</node>
+<node id="attack-pattern--63b6942d-8359-4506-bfb3-cf87aa8120ee">
+  <data key="d0">Loss of Productivity and Revenue</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0828</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">impact</data>
+</node>
+<node id="attack-pattern--648f995e-9c3a-41e4-aeee-98bb41037426">
+  <data key="d0">Spearphishing Attachment</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0865</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">initial-access</data>
+</node>
+<node id="attack-pattern--77d9c726-b53e-481d-8bcc-1068aebfbb9d">
+  <data key="d0">Autorun Image</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0895</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">execution</data>
+</node>
+<node id="attack-pattern--7830cfcf-b268-4ac0-a69e-73c6affbae9a">
+  <data key="d0">Drive-by Compromise</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0817</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">initial-access</data>
+</node>
+<node id="attack-pattern--83ebd22f-b401-4d59-8219-2294172cf916">
+  <data key="d0">Damage to Property</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0879</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">impact</data>
+</node>
+<node id="attack-pattern--8535b71e-3c12-4258-a4ab-40257a1becc4">
+  <data key="d0">Spoof Reporting Message</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0856</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">evasion | impair-process-control</data>
+</node>
+<node id="attack-pattern--85a45294-08f1-4539-bf00-7da08aa7b0ee">
+  <data key="d0">Exploitation of Remote Services</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0866</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">initial-access | lateral-movement</data>
+</node>
+<node id="attack-pattern--8bb4538f-f16f-49f0-a431-70b5444c7349">
+  <data key="d0">Default Credentials</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0812</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">lateral-movement</data>
+</node>
+<node id="attack-pattern--8d2f3bab-507c-4424-b58b-edc977bd215c">
+  <data key="d0">External Remote Services</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0822</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">initial-access</data>
+</node>
+<node id="attack-pattern--8e7089d3-fba2-44f8-94a8-9a79c53920c4">
+  <data key="d0">Brute Force I/O</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0806</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">impair-process-control</data>
+</node>
+<node id="attack-pattern--9a505987-ab05-4f46-a9a6-6441442eec3b">
+  <data key="d0">Adversary-in-the-Middle</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0830</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">collection</data>
+</node>
+<node id="attack-pattern--9f947a1c-3860-48a8-8af0-a2dfa3efde03">
+  <data key="d0">Exploitation for Evasion</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0820</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">evasion</data>
+</node>
+<node id="attack-pattern--a81696ef-c106-482c-8f80-59c30f2569fb">
+  <data key="d0">Loss of Control</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0827</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">impact</data>
+</node>
+<node id="attack-pattern--ab390887-afc0-4715-826d-b1b167d522ae">
+  <data key="d0">Hooking</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0874</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">execution | privilege-escalation</data>
+</node>
+<node id="attack-pattern--b0628bfc-5376-4a38-9182-f324501cb4cf">
+  <data key="d0">Graphical User Interface</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0823</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">execution</data>
+</node>
+<node id="attack-pattern--b14395bd-5419-4ef4-9bd8-696936f509bb">
+  <data key="d0">Rogue Master</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0848</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">initial-access</data>
+</node>
+<node id="attack-pattern--b52870cc-83f3-473c-b895-72d91751030b">
+  <data key="d0">Native API</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0834</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">execution</data>
+</node>
+<node id="attack-pattern--b5b9bacb-97f2-4249-b804-47fd44de1f95">
+  <data key="d0">Loss of Availability</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0826</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">impact</data>
+</node>
+<node id="attack-pattern--b7e13ee8-182c-4f19-92a4-a88d7d855d54">
+  <data key="d0">Theft of Operational Information</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0882</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">impact</data>
+</node>
+<node id="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d0">System Firmware</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0857</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">persistence | inhibit-response-function</data>
+</node>
+<node id="attack-pattern--ba203963-3182-41ac-af14-7e7ebc83cd61">
+  <data key="d0">Masquerading</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0849</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">evasion</data>
+</node>
+<node id="attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068">
+  <data key="d0">Program Download</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0843</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">lateral-movement</data>
+</node>
+<node id="attack-pattern--c267bbee-bb59-47fe-85e0-3ed210337c21">
+  <data key="d0">Replication Through Removable Media</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0847</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">initial-access</data>
+</node>
+<node id="attack-pattern--c5e3cdbc-0387-4be9-8f83-ff5c0865f377">
+  <data key="d0">Screen Capture</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0852</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">collection</data>
+</node>
+<node id="attack-pattern--c9a8d958-fcdb-40d2-af4c-461c8031651a">
+  <data key="d0">Hardcoded Credentials</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0891</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">lateral-movement | persistence</data>
+</node>
+<node id="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d0">Valid Accounts</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0859</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">persistence | lateral-movement</data>
+</node>
+<node id="attack-pattern--cfe68e93-ce94-4c0f-a57d-3aa72cedd618">
+  <data key="d0">Exploitation for Privilege Escalation</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0890</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">privilege-escalation</data>
+</node>
+<node id="attack-pattern--d5a69cfb-fc2a-46cb-99eb-74b236db5061">
+  <data key="d0">Remote System Discovery</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0846</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">discovery</data>
+</node>
+<node id="attack-pattern--d67adac8-e3b9-44f9-9e6d-6c2a7d69dbe4">
+  <data key="d0">Connection Proxy</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0884</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">command-and-control</data>
+</node>
+<node id="attack-pattern--e076cca8-2f08-45c9-aff7-ea5ac798b387">
+  <data key="d0">Standard Application Layer Protocol</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0869</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">command-and-control</data>
+</node>
+<node id="attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf">
+  <data key="d0">Remote Services</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0886</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">initial-access | lateral-movement</data>
+</node>
+<node id="attack-pattern--e33c7ecc-5a38-497f-beb2-a9a2049a4c20">
+  <data key="d0">Denial of Control</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0813</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">impact</data>
+</node>
+<node id="attack-pattern--e5de767e-f513-41cd-aa15-33f6ce5fbf92">
+  <data key="d0">Modify Alarm Settings</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0838</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">inhibit-response-function</data>
+</node>
+<node id="attack-pattern--e6c31185-8040-4267-83d3-b217b8a92f07">
+  <data key="d0">Commonly Used Port</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0885</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">command-and-control</data>
+</node>
+<node id="attack-pattern--e72425f8-9ae6-41d3-bfdb-e1b865e60722">
+  <data key="d0">Project File Infection</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0873</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">persistence</data>
+</node>
+<node id="attack-pattern--ea0c980c-5cf0-43a7-a049-59c4c207566e">
+  <data key="d0">Network Connection Enumeration</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0840</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">discovery</data>
+</node>
+<node id="attack-pattern--ead7bd34-186e-4c79-9a4d-b65bcce6ed9d">
+  <data key="d0">Lateral Tool Transfer</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0867</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">lateral-movement</data>
+</node>
+<node id="attack-pattern--efbf7888-f61b-4572-9c80-7e2965c60707">
+  <data key="d0">Module Firmware</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0839</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">persistence | impair-process-control</data>
+</node>
+<node id="attack-pattern--f8df6b57-14bc-425f-9a91-6f59f6799307">
+  <data key="d0">Internet Accessible Device</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0883</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">initial-access</data>
+</node>
+<node id="attack-pattern--fa3aa267-da22-4bdd-961f-03223322a8d5">
+  <data key="d0">Data from Local System</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0893</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">collection</data>
+</node>
+<node id="attack-pattern--fab8fc7d-f27f-4fbb-9de6-44740aade05f">
+  <data key="d0">Change Credential</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0892</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">inhibit-response-function</data>
+</node>
+<node id="attack-pattern--fc5fda7e-6b2c-4457-b036-759896a2efa2">
+  <data key="d0">Modify Program</data>
+  <data key="d1">attack-pattern</data>
+  <data key="d2">T0889</data>
+  <data key="d3">ics</data>
+  <data key="d4">None</data>
+  <data key="d5">ics-attack</data>
+  <data key="d6">persistence</data>
+</node>
+<node id="campaign--46421788-b6e1-4256-b351-f8beffd1afba">
+  <data key="d0">2015 Ukraine Electric Power Attack</data>
+  <data key="d1">campaign</data>
+  <data key="d2">C0028</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack | enterprise-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="campaign--45a98f02-852f-49b2-94c0-c63207bebbbf">
+  <data key="d0">Triton Safety Instrumented System Attack</data>
+  <data key="d1">campaign</data>
+  <data key="d2">C0030</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack | enterprise-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="intrusion-set--1c63d4ec-0a75-4daa-b1df-0d11af3d3cc1">
+  <data key="d0">Dragonfly</data>
+  <data key="d1">intrusion-set</data>
+  <data key="d2">G0035</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="intrusion-set--f29b7c5e-2439-42ad-a86f-9f8984fafae3">
+  <data key="d0">HEXANE</data>
+  <data key="d1">intrusion-set</data>
+  <data key="d2">G1001</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="intrusion-set--fbd29c89-18ba-4c2d-b792-51c0adee049f">
+  <data key="d0">APT33</data>
+  <data key="d1">intrusion-set</data>
+  <data key="d2">G0064</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack | enterprise-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="intrusion-set--190242d7-73fc-4738-af68-20162f7a5aae">
+  <data key="d0">ALLANITE</data>
+  <data key="d1">intrusion-set</data>
+  <data key="d2">G1000</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="intrusion-set--381fcf73-60f6-4ab2-9991-6af3cbc35192">
+  <data key="d0">Sandworm Team</data>
+  <data key="d1">intrusion-set</data>
+  <data key="d2">G0034</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">enterprise-attack | ics-attack | mobile-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="campaign--1169ff24-b35f-4d8d-8cf3-643a2834227f">
+  <data key="d0">FrostyGoop Incident</data>
+  <data key="d1">campaign</data>
+  <data key="d2">C0041</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack | enterprise-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="campaign--aa73efef-1418-4dbe-b43c-87a498e97234">
+  <data key="d0">2016 Ukraine Electric Power Attack</data>
+  <data key="d1">campaign</data>
+  <data key="d2">C0025</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="campaign--70cab19e-1745-425e-b3db-c02cd5ff157a">
+  <data key="d0">Maroochy Water Breach</data>
+  <data key="d1">campaign</data>
+  <data key="d2">C0020</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="campaign--8fda050f-470d-4401-994e-35c1a6c301de">
+  <data key="d0">Unitronics Defacement Campaign</data>
+  <data key="d1">campaign</data>
+  <data key="d2">C0031</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="intrusion-set--c93fccb1-e8e8-42cf-ae33-2ad1d183913a">
+  <data key="d0">Lazarus Group</data>
+  <data key="d1">intrusion-set</data>
+  <data key="d2">G0032</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="intrusion-set--4ca1929c-7d64-4aab-b849-badbfc0c760d">
+  <data key="d0">OilRig</data>
+  <data key="d1">intrusion-set</data>
+  <data key="d2">G0049</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="campaign--df8eb785-70f8-4300-b444-277ba849083d">
+  <data key="d0">2022 Ukraine Electric Power Attack</data>
+  <data key="d1">campaign</data>
+  <data key="d2">C0034</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="intrusion-set--3753cc21-2dae-4dfb-8481-d004e74502cc">
+  <data key="d0">FIN7</data>
+  <data key="d1">intrusion-set</data>
+  <data key="d2">G0046</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="intrusion-set--dd2d9ca6-505b-4860-a604-233685b802c7">
+  <data key="d0">Wizard Spider</data>
+  <data key="d1">intrusion-set</data>
+  <data key="d2">G0102</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="intrusion-set--9538b1a4-4120-4e2d-bf59-3b11fcab05a4">
+  <data key="d0">TEMP.Veles</data>
+  <data key="d1">intrusion-set</data>
+  <data key="d2">G0088</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="intrusion-set--2a7914cf-dff3-428d-ab0f-1014d1c28aeb">
+  <data key="d0">FIN6</data>
+  <data key="d1">intrusion-set</data>
+  <data key="d2">G0037</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="intrusion-set--c77c5576-ca19-42ed-a36f-4b4486a84133">
+  <data key="d0">GOLD SOUTHFIELD</data>
+  <data key="d1">intrusion-set</data>
+  <data key="d2">G0115</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="intrusion-set--00f67a77-86a4-4adf-be26-1a54fc713340">
+  <data key="d0">APT38</data>
+  <data key="d1">intrusion-set</data>
+  <data key="d2">G0082</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">enterprise-attack | ics-attack</data>
+  <data key="d6"></data>
+</node>
+<node id="intrusion-set--a07a367a-146c-45a8-a830-d3d337b9befa">
+  <data key="d0">CyberAv3ngers</data>
+  <data key="d1">intrusion-set</data>
+  <data key="d2">G1027</data>
+  <data key="d3">ics</data>
+  <data key="d4"></data>
+  <data key="d5">ics-attack</data>
+  <data key="d6"></data>
+</node>
+<edge source="course-of-action--059ba11e-e3dc-49aa-84ca-88197f40d4ea" target="attack-pattern--2dc2b567-8821-49f9-9045-8740f3d0b958">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--059ba11e-e3dc-49aa-84ca-88197f40d4ea" target="attack-pattern--cfe68e93-ce94-4c0f-a57d-3aa72cedd618">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--059ba11e-e3dc-49aa-84ca-88197f40d4ea" target="attack-pattern--9f947a1c-3860-48a8-8af0-a2dfa3efde03">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--059ba11e-e3dc-49aa-84ca-88197f40d4ea" target="attack-pattern--85a45294-08f1-4539-bf00-7da08aa7b0ee">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--059ba11e-e3dc-49aa-84ca-88197f40d4ea" target="attack-pattern--7830cfcf-b268-4ac0-a69e-73c6affbae9a">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--059ba11e-e3dc-49aa-84ca-88197f40d4ea" target="attack-pattern--32632a95-6856-47b9-9ab7-fea5cd7dce00">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17" target="attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17" target="attack-pattern--efbf7888-f61b-4572-9c80-7e2965c60707">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17" target="attack-pattern--40b300ba-f553-48bf-862e-9471b220d455">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17" target="attack-pattern--b14395bd-5419-4ef4-9bd8-696936f509bb">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17" target="attack-pattern--2aa406ed-81c3-4c1d-ba83-cfbee5a2847a">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17" target="attack-pattern--25852363-5968-4673-b81d-341d5ed90bd1">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17" target="attack-pattern--d67adac8-e3b9-44f9-9e6d-6c2a7d69dbe4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17" target="attack-pattern--8e7089d3-fba2-44f8-94a8-9a79c53920c4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17" target="attack-pattern--3067b85e-271e-4bc5-81ad-ab1a81d411e3">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17" target="attack-pattern--25dfc8ad-bd73-4dfd-84a9-3c3d383f76e9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17" target="attack-pattern--8535b71e-3c12-4258-a4ab-40257a1becc4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17" target="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17" target="attack-pattern--19a71d1e-6334-4233-8260-b749cae37953">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17" target="attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--143b4398-3222-480a-b6a4-e131bc2d3144" target="attack-pattern--2736b752-4ec5-4421-a230-8977dea7649c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--143b4398-3222-480a-b6a4-e131bc2d3144" target="attack-pattern--648f995e-9c3a-41e4-aeee-98bb41037426">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--143b4398-3222-480a-b6a4-e131bc2d3144" target="attack-pattern--7830cfcf-b268-4ac0-a69e-73c6affbae9a">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1cbcceef-3233-4062-aa86-ec91afe39517" target="attack-pattern--40b300ba-f553-48bf-862e-9471b220d455">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1cbcceef-3233-4062-aa86-ec91afe39517" target="attack-pattern--097924ce-a9a9-4039-8591-e0deedfb8722">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--e076cca8-2f08-45c9-aff7-ea5ac798b387">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--e5de767e-f513-41cd-aa15-33f6ce5fbf92">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--40b300ba-f553-48bf-862e-9471b220d455">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--8d2f3bab-507c-4424-b58b-edc977bd215c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--f8df6b57-14bc-425f-9a91-6f59f6799307">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--38213338-1aab-479d-949b-c81b66ccca5c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--9a505987-ab05-4f46-a9a6-6441442eec3b">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--25dfc8ad-bd73-4dfd-84a9-3c3d383f76e9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--1c478716-71d9-46a4-9a53-fa5d576adb60">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--8535b71e-3c12-4258-a4ab-40257a1becc4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--8e7089d3-fba2-44f8-94a8-9a79c53920c4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--b14395bd-5419-4ef4-9bd8-696936f509bb">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--85a45294-08f1-4539-bf00-7da08aa7b0ee">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--3067b85e-271e-4bc5-81ad-ab1a81d411e3">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--35392fb4-a31d-4c6a-b9f2-1c65b7f5e6b9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--efbf7888-f61b-4572-9c80-7e2965c60707">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--063b5b92-5361-481a-9c3f-95492ed9a2d8">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--3de230d4-3e42-4041-b089-17e1128feded">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--2900bbd8-308a-4274-b074-5b8bde8347bc">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--e6c31185-8040-4267-83d3-b217b8a92f07">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--25852363-5968-4673-b81d-341d5ed90bd1">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--2883c520-7957-46ca-89bd-dab1ad53b601">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--2aa406ed-81c3-4c1d-ba83-cfbee5a2847a">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--19a71d1e-6334-4233-8260-b749cae37953">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--1e7ccfc0-94c8-496e-8d27-032120892291" target="attack-pattern--32632a95-6856-47b9-9ab7-fea5cd7dce00">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--2ab9fc6d-3cf6-4d7b-85f1-3ad6949233b3" target="attack-pattern--ab390887-afc0-4715-826d-b1b167d522ae">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--2f0160b7-e982-49d7-9612-f19b810f1722" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3172222b-4983-43f7-8983-753ded4f13bc" target="attack-pattern--e076cca8-2f08-45c9-aff7-ea5ac798b387">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3172222b-4983-43f7-8983-753ded4f13bc" target="attack-pattern--d67adac8-e3b9-44f9-9e6d-6c2a7d69dbe4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3172222b-4983-43f7-8983-753ded4f13bc" target="attack-pattern--e6c31185-8040-4267-83d3-b217b8a92f07">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3172222b-4983-43f7-8983-753ded4f13bc" target="attack-pattern--648f995e-9c3a-41e4-aeee-98bb41037426">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3172222b-4983-43f7-8983-753ded4f13bc" target="attack-pattern--9a505987-ab05-4f46-a9a6-6441442eec3b">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3172222b-4983-43f7-8983-753ded4f13bc" target="attack-pattern--2736b752-4ec5-4421-a230-8977dea7649c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3172222b-4983-43f7-8983-753ded4f13bc" target="attack-pattern--ead7bd34-186e-4c79-9a4d-b65bcce6ed9d">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3222a807-521b-4a1a-aa13-f1cda45734b3" target="attack-pattern--063b5b92-5361-481a-9c3f-95492ed9a2d8">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--337c4e2a-21a7-4d9a-bfee-9efd6cebf0e5" target="attack-pattern--fa3aa267-da22-4bdd-961f-03223322a8d5">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--337c4e2a-21a7-4d9a-bfee-9efd6cebf0e5" target="attack-pattern--b7e13ee8-182c-4f19-92a4-a88d7d855d54">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3" target="attack-pattern--8bb4538f-f16f-49f0-a431-70b5444c7349">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3" target="attack-pattern--c9a8d958-fcdb-40d2-af4c-461c8031651a">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3" target="attack-pattern--3067b85e-271e-4bc5-81ad-ab1a81d411e3">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3" target="attack-pattern--2aa406ed-81c3-4c1d-ba83-cfbee5a2847a">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3" target="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3" target="attack-pattern--2883c520-7957-46ca-89bd-dab1ad53b601">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3" target="attack-pattern--19a71d1e-6334-4233-8260-b749cae37953">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3" target="attack-pattern--25852363-5968-4673-b81d-341d5ed90bd1">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3" target="attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3" target="attack-pattern--efbf7888-f61b-4572-9c80-7e2965c60707">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3" target="attack-pattern--25dfc8ad-bd73-4dfd-84a9-3c3d383f76e9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3" target="attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3" target="attack-pattern--5a2610f6-9fff-41e1-bc27-575ca20383d4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3" target="attack-pattern--e5de767e-f513-41cd-aa15-33f6ce5fbf92">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--469b78dd-a54d-4f7c-8c3b-4a1dd916b433" target="attack-pattern--53a48c74-0025-45f4-b04a-baa853df8204">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--469b78dd-a54d-4f7c-8c3b-4a1dd916b433" target="attack-pattern--b0628bfc-5376-4a38-9182-f324501cb4cf">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--469b78dd-a54d-4f7c-8c3b-4a1dd916b433" target="attack-pattern--2d0d40ad-22fa-4cc8-b264-072557e1364b">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--469b78dd-a54d-4f7c-8c3b-4a1dd916b433" target="attack-pattern--ea0c980c-5cf0-43a7-a049-59c4c207566e">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--469b78dd-a54d-4f7c-8c3b-4a1dd916b433" target="attack-pattern--36e9f5bc-ac13-4da4-a2f4-01f4877d9004">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--469b78dd-a54d-4f7c-8c3b-4a1dd916b433" target="attack-pattern--c5e3cdbc-0387-4be9-8f83-ff5c0865f377">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--49363b74-d506-4342-bd63-320586ebadb9" target="attack-pattern--9f947a1c-3860-48a8-8af0-a2dfa3efde03">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--49363b74-d506-4342-bd63-320586ebadb9" target="attack-pattern--cfe68e93-ce94-4c0f-a57d-3aa72cedd618">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--49363b74-d506-4342-bd63-320586ebadb9" target="attack-pattern--85a45294-08f1-4539-bf00-7da08aa7b0ee">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--49363b74-d506-4342-bd63-320586ebadb9" target="attack-pattern--32632a95-6856-47b9-9ab7-fea5cd7dce00">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--49363b74-d506-4342-bd63-320586ebadb9" target="attack-pattern--7830cfcf-b268-4ac0-a69e-73c6affbae9a">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--49b306c1-a046-42c5-a4d2-30f264ada110" target="attack-pattern--8d2f3bab-507c-4424-b58b-edc977bd215c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--4fa717d9-cabe-47c8-8cdd-86e9e2e37f30" target="attack-pattern--2736b752-4ec5-4421-a230-8977dea7649c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--4fa717d9-cabe-47c8-8cdd-86e9e2e37f30" target="attack-pattern--2dc2b567-8821-49f9-9045-8740f3d0b958">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--4fa717d9-cabe-47c8-8cdd-86e9e2e37f30" target="attack-pattern--1c5cf58c-a34a-40d7-82f4-f987cdfc2b91">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--4fa717d9-cabe-47c8-8cdd-86e9e2e37f30" target="attack-pattern--5a2610f6-9fff-41e1-bc27-575ca20383d4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--4fa717d9-cabe-47c8-8cdd-86e9e2e37f30" target="attack-pattern--b52870cc-83f3-473c-b895-72d91751030b">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--4fa717d9-cabe-47c8-8cdd-86e9e2e37f30" target="attack-pattern--24a9253e-8948-4c98-b751-8e2aee53127c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--4fa717d9-cabe-47c8-8cdd-86e9e2e37f30" target="attack-pattern--ba203963-3182-41ac-af14-7e7ebc83cd61">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--52c7a1a9-3a78-4528-a44f-cd7b0fa3541a" target="attack-pattern--3f1f4ccb-9be2-4ff8-8f69-dd972221169b">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--52c7a1a9-3a78-4528-a44f-cd7b0fa3541a" target="attack-pattern--2900bbd8-308a-4274-b074-5b8bde8347bc">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--52c7a1a9-3a78-4528-a44f-cd7b0fa3541a" target="attack-pattern--2fedbe69-581f-447d-8a78-32ee7db939a9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--52c7a1a9-3a78-4528-a44f-cd7b0fa3541a" target="attack-pattern--9a505987-ab05-4f46-a9a6-6441442eec3b">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--52c7a1a9-3a78-4528-a44f-cd7b0fa3541a" target="attack-pattern--d5a69cfb-fc2a-46cb-99eb-74b236db5061">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--52c7a1a9-3a78-4528-a44f-cd7b0fa3541a" target="attack-pattern--38213338-1aab-479d-949b-c81b66ccca5c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--52c7a1a9-3a78-4528-a44f-cd7b0fa3541a" target="attack-pattern--008b8f56-6107-48be-aa9f-746f927dbb61">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--5d97c693-e054-48ba-a3a3-eaf6942dfb65" target="attack-pattern--8bb4538f-f16f-49f0-a431-70b5444c7349">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--5d97c693-e054-48ba-a3a3-eaf6942dfb65" target="attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--5d97c693-e054-48ba-a3a3-eaf6942dfb65" target="attack-pattern--fab8fc7d-f27f-4fbb-9de6-44740aade05f">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--5d97c693-e054-48ba-a3a3-eaf6942dfb65" target="attack-pattern--8d2f3bab-507c-4424-b58b-edc977bd215c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--5d97c693-e054-48ba-a3a3-eaf6942dfb65" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--622fe4d4-0e8e-4d17-9c25-6c9cef1f15d5" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--622fe4d4-0e8e-4d17-9c25-6c9cef1f15d5" target="attack-pattern--38213338-1aab-479d-949b-c81b66ccca5c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--622fe4d4-0e8e-4d17-9c25-6c9cef1f15d5" target="attack-pattern--85a45294-08f1-4539-bf00-7da08aa7b0ee">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--622fe4d4-0e8e-4d17-9c25-6c9cef1f15d5" target="attack-pattern--3405891b-16aa-4bd7-bd7c-733501f9b20f">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--622fe4d4-0e8e-4d17-9c25-6c9cef1f15d5" target="attack-pattern--32632a95-6856-47b9-9ab7-fea5cd7dce00">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--622fe4d4-0e8e-4d17-9c25-6c9cef1f15d5" target="attack-pattern--493832d9-cea6-4b63-abe7-9a65a6473675">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0" target="attack-pattern--e5de767e-f513-41cd-aa15-33f6ce5fbf92">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0" target="attack-pattern--e6c31185-8040-4267-83d3-b217b8a92f07">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0" target="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0" target="attack-pattern--2883c520-7957-46ca-89bd-dab1ad53b601">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0" target="attack-pattern--25dfc8ad-bd73-4dfd-84a9-3c3d383f76e9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0" target="attack-pattern--2aa406ed-81c3-4c1d-ba83-cfbee5a2847a">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0" target="attack-pattern--09a61657-46e1-439e-b3ed-3e4556a78243">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0" target="attack-pattern--19a71d1e-6334-4233-8260-b749cae37953">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0" target="attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0" target="attack-pattern--25852363-5968-4673-b81d-341d5ed90bd1">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0" target="attack-pattern--efbf7888-f61b-4572-9c80-7e2965c60707">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0" target="attack-pattern--097924ce-a9a9-4039-8591-e0deedfb8722">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0" target="attack-pattern--5a2610f6-9fff-41e1-bc27-575ca20383d4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0" target="attack-pattern--3067b85e-271e-4bc5-81ad-ab1a81d411e3">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0" target="attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0" target="attack-pattern--fc5fda7e-6b2c-4457-b036-759896a2efa2">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--6a02e38a-9629-40c0-8c7d-e98e3470315c" target="attack-pattern--d67adac8-e3b9-44f9-9e6d-6c2a7d69dbe4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--71eb7dad-07eb-4bbc-9df0-ac57bf2fba4a" target="attack-pattern--3b6b9246-43f8-4c69-ad7a-2b11cfe0a0d9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--71eb7dad-07eb-4bbc-9df0-ac57bf2fba4a" target="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--71eb7dad-07eb-4bbc-9df0-ac57bf2fba4a" target="attack-pattern--efbf7888-f61b-4572-9c80-7e2965c60707">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--71eb7dad-07eb-4bbc-9df0-ac57bf2fba4a" target="attack-pattern--09a61657-46e1-439e-b3ed-3e4556a78243">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--71eb7dad-07eb-4bbc-9df0-ac57bf2fba4a" target="attack-pattern--fc5fda7e-6b2c-4457-b036-759896a2efa2">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--71eb7dad-07eb-4bbc-9df0-ac57bf2fba4a" target="attack-pattern--ba203963-3182-41ac-af14-7e7ebc83cd61">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--71eb7dad-07eb-4bbc-9df0-ac57bf2fba4a" target="attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--71eb7dad-07eb-4bbc-9df0-ac57bf2fba4a" target="attack-pattern--5e0f75da-e108-4688-a6de-a4f07cc2cbe3">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--71eb7dad-07eb-4bbc-9df0-ac57bf2fba4a" target="attack-pattern--2736b752-4ec5-4421-a230-8977dea7649c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--71eb7dad-07eb-4bbc-9df0-ac57bf2fba4a" target="attack-pattern--e72425f8-9ae6-41d3-bfdb-e1b865e60722">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--3067b85e-271e-4bc5-81ad-ab1a81d411e3">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--8535b71e-3c12-4258-a4ab-40257a1becc4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--b14395bd-5419-4ef4-9bd8-696936f509bb">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--2aa406ed-81c3-4c1d-ba83-cfbee5a2847a">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--efbf7888-f61b-4572-9c80-7e2965c60707">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--2877063e-1851-48d2-bcc6-bc1d2733157e">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--e5de767e-f513-41cd-aa15-33f6ce5fbf92">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--9a505987-ab05-4f46-a9a6-6441442eec3b">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--19a71d1e-6334-4233-8260-b749cae37953">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--2883c520-7957-46ca-89bd-dab1ad53b601">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--25852363-5968-4673-b81d-341d5ed90bd1">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--40b300ba-f553-48bf-862e-9471b220d455">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--8e7089d3-fba2-44f8-94a8-9a79c53920c4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--72e46e53-e12d-4106-9c70-33241b6ed549" target="attack-pattern--25dfc8ad-bd73-4dfd-84a9-3c3d383f76e9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--7f153c28-e5f1-4764-88fb-eea1d9b0ad4a" target="attack-pattern--0fe075d5-beac-4d02-b93e-0f874997db72">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--7f153c28-e5f1-4764-88fb-eea1d9b0ad4a" target="attack-pattern--efbf7888-f61b-4572-9c80-7e2965c60707">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--7f153c28-e5f1-4764-88fb-eea1d9b0ad4a" target="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--7f153c28-e5f1-4764-88fb-eea1d9b0ad4a" target="attack-pattern--2877063e-1851-48d2-bcc6-bc1d2733157e">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--7f153c28-e5f1-4764-88fb-eea1d9b0ad4a" target="attack-pattern--38213338-1aab-479d-949b-c81b66ccca5c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--86b455f2-fb63-4043-93a8-32a3a7703a02" target="attack-pattern--8d2f3bab-507c-4424-b58b-edc977bd215c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--86b455f2-fb63-4043-93a8-32a3a7703a02" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--8a3aadd0-b5f4-433a-800e-4893e4196bb7" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--8ac1d6e1-b07f-476a-9732-84984ebc2405" target="attack-pattern--efbf7888-f61b-4572-9c80-7e2965c60707">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--8ac1d6e1-b07f-476a-9732-84984ebc2405" target="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--8bc4a54e-810c-4600-8b6c-08fa8413a401" target="attack-pattern--5fa00fdd-4a55-4191-94a0-564181d7fec2">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--8bc4a54e-810c-4600-8b6c-08fa8413a401" target="attack-pattern--83ebd22f-b401-4d59-8219-2294172cf916">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--97f33c84-8508-45b9-8a1d-cac921828c9e" target="attack-pattern--5e0f75da-e108-4688-a6de-a4f07cc2cbe3">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--97f33c84-8508-45b9-8a1d-cac921828c9e" target="attack-pattern--7830cfcf-b268-4ac0-a69e-73c6affbae9a">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--97f33c84-8508-45b9-8a1d-cac921828c9e" target="attack-pattern--32632a95-6856-47b9-9ab7-fea5cd7dce00">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--97f33c84-8508-45b9-8a1d-cac921828c9e" target="attack-pattern--cfe68e93-ce94-4c0f-a57d-3aa72cedd618">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--97f33c84-8508-45b9-8a1d-cac921828c9e" target="attack-pattern--9f947a1c-3860-48a8-8af0-a2dfa3efde03">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--97f33c84-8508-45b9-8a1d-cac921828c9e" target="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--97f33c84-8508-45b9-8a1d-cac921828c9e" target="attack-pattern--35392fb4-a31d-4c6a-b9f2-1c65b7f5e6b9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--97f33c84-8508-45b9-8a1d-cac921828c9e" target="attack-pattern--85a45294-08f1-4539-bf00-7da08aa7b0ee">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--98aa0d61-fc9d-4b2d-8f18-b25d03549f53" target="attack-pattern--1b22b676-9347-4c55-9a35-ef0dc653db5b">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--99c746d7-a08a-4169-94f9-b8c0dad716fa" target="attack-pattern--b7e13ee8-182c-4f19-92a4-a88d7d855d54">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--9a945a29-5233-4422-a9e3-3e957b0e8bce" target="attack-pattern--c267bbee-bb59-47fe-85e0-3ed210337c21">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--9a945a29-5233-4422-a9e3-3e957b0e8bce" target="attack-pattern--77d9c726-b53e-481d-8bcc-1068aebfbb9d">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--9e3adcad-0b8f-4ecc-a2f3-06f607f53bf0" target="attack-pattern--c267bbee-bb59-47fe-85e0-3ed210337c21">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--9f99fcfd-772e-4e63-9d39-e45612e546dc" target="attack-pattern--fa3aa267-da22-4bdd-961f-03223322a8d5">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--9f99fcfd-772e-4e63-9d39-e45612e546dc" target="attack-pattern--efbf7888-f61b-4572-9c80-7e2965c60707">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--9f99fcfd-772e-4e63-9d39-e45612e546dc" target="attack-pattern--35392fb4-a31d-4c6a-b9f2-1c65b7f5e6b9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--9f99fcfd-772e-4e63-9d39-e45612e546dc" target="attack-pattern--3405891b-16aa-4bd7-bd7c-733501f9b20f">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--9f99fcfd-772e-4e63-9d39-e45612e546dc" target="attack-pattern--e72425f8-9ae6-41d3-bfdb-e1b865e60722">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--9f99fcfd-772e-4e63-9d39-e45612e546dc" target="attack-pattern--b7e13ee8-182c-4f19-92a4-a88d7d855d54">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--9f99fcfd-772e-4e63-9d39-e45612e546dc" target="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--25dfc8ad-bd73-4dfd-84a9-3c3d383f76e9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--19a71d1e-6334-4233-8260-b749cae37953">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--e5de767e-f513-41cd-aa15-33f6ce5fbf92">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--25852363-5968-4673-b81d-341d5ed90bd1">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--8e7089d3-fba2-44f8-94a8-9a79c53920c4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--83ebd22f-b401-4d59-8219-2294172cf916">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--b14395bd-5419-4ef4-9bd8-696936f509bb">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--3de230d4-3e42-4041-b089-17e1128feded">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--3f1f4ccb-9be2-4ff8-8f69-dd972221169b">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--2aa406ed-81c3-4c1d-ba83-cfbee5a2847a">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--2883c520-7957-46ca-89bd-dab1ad53b601">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--2900bbd8-308a-4274-b074-5b8bde8347bc">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--40b300ba-f553-48bf-862e-9471b220d455">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--3067b85e-271e-4bc5-81ad-ab1a81d411e3">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--008b8f56-6107-48be-aa9f-746f927dbb61">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--d67adac8-e3b9-44f9-9e6d-6c2a7d69dbe4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--1c478716-71d9-46a4-9a53-fa5d576adb60">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--8535b71e-3c12-4258-a4ab-40257a1becc4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--e076cca8-2f08-45c9-aff7-ea5ac798b387">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a" target="attack-pattern--efbf7888-f61b-4572-9c80-7e2965c60707">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--ac8f3492-7fbb-4a0a-b0b4-b75ec676136c" target="attack-pattern--5e0f75da-e108-4688-a6de-a4f07cc2cbe3">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--ad12819e-3211-4291-b360-069f280cff0a" target="attack-pattern--e33c7ecc-5a38-497f-beb2-a9a2049a4c20">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--ad12819e-3211-4291-b360-069f280cff0a" target="attack-pattern--1af9e3fd-2bcc-414d-adbd-fe3b95c02ca1">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--ad12819e-3211-4291-b360-069f280cff0a" target="attack-pattern--a81696ef-c106-482c-8f80-59c30f2569fb">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--ad12819e-3211-4291-b360-069f280cff0a" target="attack-pattern--493832d9-cea6-4b63-abe7-9a65a6473675">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--ad12819e-3211-4291-b360-069f280cff0a" target="attack-pattern--fab8fc7d-f27f-4fbb-9de6-44740aade05f">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--ad12819e-3211-4291-b360-069f280cff0a" target="attack-pattern--b5b9bacb-97f2-4249-b804-47fd44de1f95">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--ad12819e-3211-4291-b360-069f280cff0a" target="attack-pattern--56ddc820-6cfb-407f-850b-52c035d123ac">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--ad12819e-3211-4291-b360-069f280cff0a" target="attack-pattern--4c2e1408-9d68-4187-8e6b-a77bc52700ec">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--ad12819e-3211-4291-b360-069f280cff0a" target="attack-pattern--63b6942d-8359-4506-bfb3-cf87aa8120ee">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--ad12819e-3211-4291-b360-069f280cff0a" target="attack-pattern--138979ba-0430-4de6-a128-2fc0b056ba36">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--b11cad63-ef30-4eb8-af0d-6cc46eef3f3e" target="attack-pattern--008b8f56-6107-48be-aa9f-746f927dbb61">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--b11cad63-ef30-4eb8-af0d-6cc46eef3f3e" target="attack-pattern--56ddc820-6cfb-407f-850b-52c035d123ac">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--b11cad63-ef30-4eb8-af0d-6cc46eef3f3e" target="attack-pattern--e33c7ecc-5a38-497f-beb2-a9a2049a4c20">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--b11cad63-ef30-4eb8-af0d-6cc46eef3f3e" target="attack-pattern--3f1f4ccb-9be2-4ff8-8f69-dd972221169b">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--b11cad63-ef30-4eb8-af0d-6cc46eef3f3e" target="attack-pattern--1af9e3fd-2bcc-414d-adbd-fe3b95c02ca1">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--b11cad63-ef30-4eb8-af0d-6cc46eef3f3e" target="attack-pattern--9a505987-ab05-4f46-a9a6-6441442eec3b">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--b11cad63-ef30-4eb8-af0d-6cc46eef3f3e" target="attack-pattern--b5b9bacb-97f2-4249-b804-47fd44de1f95">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--b11cad63-ef30-4eb8-af0d-6cc46eef3f3e" target="attack-pattern--4c2e1408-9d68-4187-8e6b-a77bc52700ec">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--b11cad63-ef30-4eb8-af0d-6cc46eef3f3e" target="attack-pattern--1c478716-71d9-46a4-9a53-fa5d576adb60">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--b11cad63-ef30-4eb8-af0d-6cc46eef3f3e" target="attack-pattern--a81696ef-c106-482c-8f80-59c30f2569fb">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--b11cad63-ef30-4eb8-af0d-6cc46eef3f3e" target="attack-pattern--2900bbd8-308a-4274-b074-5b8bde8347bc">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--b11cad63-ef30-4eb8-af0d-6cc46eef3f3e" target="attack-pattern--138979ba-0430-4de6-a128-2fc0b056ba36">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--bcf91ebc-f316-4e19-b2f6-444e9940c697" target="attack-pattern--5e0f75da-e108-4688-a6de-a4f07cc2cbe3">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--bcf91ebc-f316-4e19-b2f6-444e9940c697" target="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--bcf91ebc-f316-4e19-b2f6-444e9940c697" target="attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--bcf91ebc-f316-4e19-b2f6-444e9940c697" target="attack-pattern--3405891b-16aa-4bd7-bd7c-733501f9b20f">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--bcf91ebc-f316-4e19-b2f6-444e9940c697" target="attack-pattern--fc5fda7e-6b2c-4457-b036-759896a2efa2">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--bcf91ebc-f316-4e19-b2f6-444e9940c697" target="attack-pattern--35392fb4-a31d-4c6a-b9f2-1c65b7f5e6b9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--bcf91ebc-f316-4e19-b2f6-444e9940c697" target="attack-pattern--097924ce-a9a9-4039-8591-e0deedfb8722">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--bcf91ebc-f316-4e19-b2f6-444e9940c697" target="attack-pattern--3b6b9246-43f8-4c69-ad7a-2b11cfe0a0d9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--bcf91ebc-f316-4e19-b2f6-444e9940c697" target="attack-pattern--efbf7888-f61b-4572-9c80-7e2965c60707">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--bcf91ebc-f316-4e19-b2f6-444e9940c697" target="attack-pattern--09a61657-46e1-439e-b3ed-3e4556a78243">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--bcf91ebc-f316-4e19-b2f6-444e9940c697" target="attack-pattern--9a505987-ab05-4f46-a9a6-6441442eec3b">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--bcf91ebc-f316-4e19-b2f6-444e9940c697" target="attack-pattern--ab390887-afc0-4715-826d-b1b167d522ae">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--bcf91ebc-f316-4e19-b2f6-444e9940c697" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--bcf91ebc-f316-4e19-b2f6-444e9940c697" target="attack-pattern--e72425f8-9ae6-41d3-bfdb-e1b865e60722">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac" target="attack-pattern--3067b85e-271e-4bc5-81ad-ab1a81d411e3">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac" target="attack-pattern--2883c520-7957-46ca-89bd-dab1ad53b601">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac" target="attack-pattern--8535b71e-3c12-4258-a4ab-40257a1becc4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac" target="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac" target="attack-pattern--2877063e-1851-48d2-bcc6-bc1d2733157e">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac" target="attack-pattern--4c2e1408-9d68-4187-8e6b-a77bc52700ec">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac" target="attack-pattern--25dfc8ad-bd73-4dfd-84a9-3c3d383f76e9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac" target="attack-pattern--40b300ba-f553-48bf-862e-9471b220d455">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac" target="attack-pattern--efbf7888-f61b-4572-9c80-7e2965c60707">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac" target="attack-pattern--b14395bd-5419-4ef4-9bd8-696936f509bb">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac" target="attack-pattern--2aa406ed-81c3-4c1d-ba83-cfbee5a2847a">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac" target="attack-pattern--19a71d1e-6334-4233-8260-b749cae37953">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac" target="attack-pattern--1af9e3fd-2bcc-414d-adbd-fe3b95c02ca1">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac" target="attack-pattern--25852363-5968-4673-b81d-341d5ed90bd1">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac" target="attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--c7257b6e-4159-4771-b1f3-2bb93adaecac" target="attack-pattern--9a505987-ab05-4f46-a9a6-6441442eec3b">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--d0909119-2f71-4923-87db-b649881672d7" target="attack-pattern--85a45294-08f1-4539-bf00-7da08aa7b0ee">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--d0909119-2f71-4923-87db-b649881672d7" target="attack-pattern--2dc2b567-8821-49f9-9045-8740f3d0b958">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--d0909119-2f71-4923-87db-b649881672d7" target="attack-pattern--24a9253e-8948-4c98-b751-8e2aee53127c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--d0909119-2f71-4923-87db-b649881672d7" target="attack-pattern--25dfc8ad-bd73-4dfd-84a9-3c3d383f76e9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--d0909119-2f71-4923-87db-b649881672d7" target="attack-pattern--8d2f3bab-507c-4424-b58b-edc977bd215c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--d0909119-2f71-4923-87db-b649881672d7" target="attack-pattern--e6c31185-8040-4267-83d3-b217b8a92f07">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--d0909119-2f71-4923-87db-b649881672d7" target="attack-pattern--9a505987-ab05-4f46-a9a6-6441442eec3b">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--d0909119-2f71-4923-87db-b649881672d7" target="attack-pattern--c267bbee-bb59-47fe-85e0-3ed210337c21">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--d48b79b2-076d-483e-949c-0d38aa347499" target="attack-pattern--9f947a1c-3860-48a8-8af0-a2dfa3efde03">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--d48b79b2-076d-483e-949c-0d38aa347499" target="attack-pattern--85a45294-08f1-4539-bf00-7da08aa7b0ee">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--d48b79b2-076d-483e-949c-0d38aa347499" target="attack-pattern--cfe68e93-ce94-4c0f-a57d-3aa72cedd618">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--da44255d-85c5-492c-baf3-ee823d44f848" target="attack-pattern--5fa00fdd-4a55-4191-94a0-564181d7fec2">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--da44255d-85c5-492c-baf3-ee823d44f848" target="attack-pattern--83ebd22f-b401-4d59-8219-2294172cf916">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--dc61c280-c29d-44e5-a960-c0dd1623d2ba" target="attack-pattern--2736b752-4ec5-4421-a230-8977dea7649c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--dc61c280-c29d-44e5-a960-c0dd1623d2ba" target="attack-pattern--648f995e-9c3a-41e4-aeee-98bb41037426">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--dc61c280-c29d-44e5-a960-c0dd1623d2ba" target="attack-pattern--fa3aa267-da22-4bdd-961f-03223322a8d5">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--dc61c280-c29d-44e5-a960-c0dd1623d2ba" target="attack-pattern--3405891b-16aa-4bd7-bd7c-733501f9b20f">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--ddf3e568-f065-49e2-9106-42029a28ddbd" target="attack-pattern--38213338-1aab-479d-949b-c81b66ccca5c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--ddf3e568-f065-49e2-9106-42029a28ddbd" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--ddf3e568-f065-49e2-9106-42029a28ddbd" target="attack-pattern--8d2f3bab-507c-4424-b58b-edc977bd215c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--de0bc375-50e1-4e26-a342-a8ff8c9d3037" target="attack-pattern--85a45294-08f1-4539-bf00-7da08aa7b0ee">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--de0bc375-50e1-4e26-a342-a8ff8c9d3037" target="attack-pattern--32632a95-6856-47b9-9ab7-fea5cd7dce00">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--de0bc375-50e1-4e26-a342-a8ff8c9d3037" target="attack-pattern--5e0f75da-e108-4688-a6de-a4f07cc2cbe3">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e0d38502-decb-481d-ad8b-b8f0a0c330bd" target="attack-pattern--25852363-5968-4673-b81d-341d5ed90bd1">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e0d38502-decb-481d-ad8b-b8f0a0c330bd" target="attack-pattern--09a61657-46e1-439e-b3ed-3e4556a78243">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e0d38502-decb-481d-ad8b-b8f0a0c330bd" target="attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e0d38502-decb-481d-ad8b-b8f0a0c330bd" target="attack-pattern--3067b85e-271e-4bc5-81ad-ab1a81d411e3">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e0d38502-decb-481d-ad8b-b8f0a0c330bd" target="attack-pattern--e5de767e-f513-41cd-aa15-33f6ce5fbf92">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e0d38502-decb-481d-ad8b-b8f0a0c330bd" target="attack-pattern--25dfc8ad-bd73-4dfd-84a9-3c3d383f76e9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e0d38502-decb-481d-ad8b-b8f0a0c330bd" target="attack-pattern--5a2610f6-9fff-41e1-bc27-575ca20383d4">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e0d38502-decb-481d-ad8b-b8f0a0c330bd" target="attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e0d38502-decb-481d-ad8b-b8f0a0c330bd" target="attack-pattern--2aa406ed-81c3-4c1d-ba83-cfbee5a2847a">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e0d38502-decb-481d-ad8b-b8f0a0c330bd" target="attack-pattern--fc5fda7e-6b2c-4457-b036-759896a2efa2">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e0d38502-decb-481d-ad8b-b8f0a0c330bd" target="attack-pattern--097924ce-a9a9-4039-8591-e0deedfb8722">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e0d38502-decb-481d-ad8b-b8f0a0c330bd" target="attack-pattern--2883c520-7957-46ca-89bd-dab1ad53b601">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e0d38502-decb-481d-ad8b-b8f0a0c330bd" target="attack-pattern--19a71d1e-6334-4233-8260-b749cae37953">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e57ebc6d-785f-40c8-adb1-b5b5e09b3b48" target="attack-pattern--063b5b92-5361-481a-9c3f-95492ed9a2d8">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e57ebc6d-785f-40c8-adb1-b5b5e09b3b48" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e57ebc6d-785f-40c8-adb1-b5b5e09b3b48" target="attack-pattern--e5de767e-f513-41cd-aa15-33f6ce5fbf92">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e57ebc6d-785f-40c8-adb1-b5b5e09b3b48" target="attack-pattern--8d2f3bab-507c-4424-b58b-edc977bd215c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e57ebc6d-785f-40c8-adb1-b5b5e09b3b48" target="attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--e57ebc6d-785f-40c8-adb1-b5b5e09b3b48" target="attack-pattern--3405891b-16aa-4bd7-bd7c-733501f9b20f">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--f0f5c87a-a58d-440a-b3b5-ca679d98c6dd" target="attack-pattern--a81696ef-c106-482c-8f80-59c30f2569fb">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--f0f5c87a-a58d-440a-b3b5-ca679d98c6dd" target="attack-pattern--138979ba-0430-4de6-a128-2fc0b056ba36">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--f0f5c87a-a58d-440a-b3b5-ca679d98c6dd" target="attack-pattern--e33c7ecc-5a38-497f-beb2-a9a2049a4c20">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--f0f5c87a-a58d-440a-b3b5-ca679d98c6dd" target="attack-pattern--b5b9bacb-97f2-4249-b804-47fd44de1f95">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--f0f5c87a-a58d-440a-b3b5-ca679d98c6dd" target="attack-pattern--fab8fc7d-f27f-4fbb-9de6-44740aade05f">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--f0f5c87a-a58d-440a-b3b5-ca679d98c6dd" target="attack-pattern--56ddc820-6cfb-407f-850b-52c035d123ac">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--f9fcb3ec-6de0-4559-8cd9-ef1c0c7d1971" target="attack-pattern--493832d9-cea6-4b63-abe7-9a65a6473675">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--f9fcb3ec-6de0-4559-8cd9-ef1c0c7d1971" target="attack-pattern--b7e13ee8-182c-4f19-92a4-a88d7d855d54">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--f9fcb3ec-6de0-4559-8cd9-ef1c0c7d1971" target="attack-pattern--e72425f8-9ae6-41d3-bfdb-e1b865e60722">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--f9fcb3ec-6de0-4559-8cd9-ef1c0c7d1971" target="attack-pattern--063b5b92-5361-481a-9c3f-95492ed9a2d8">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--f9fcb3ec-6de0-4559-8cd9-ef1c0c7d1971" target="attack-pattern--3405891b-16aa-4bd7-bd7c-733501f9b20f">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--f9fcb3ec-6de0-4559-8cd9-ef1c0c7d1971" target="attack-pattern--53a26eee-1080-4d17-9762-2027d5a1b805">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--f9fcb3ec-6de0-4559-8cd9-ef1c0c7d1971" target="attack-pattern--fa3aa267-da22-4bdd-961f-03223322a8d5">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--f9fcb3ec-6de0-4559-8cd9-ef1c0c7d1971" target="attack-pattern--ba203963-3182-41ac-af14-7e7ebc83cd61">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--faf2b40e-5981-433f-aa46-17458e0026f7" target="attack-pattern--35392fb4-a31d-4c6a-b9f2-1c65b7f5e6b9">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--faf2b40e-5981-433f-aa46-17458e0026f7" target="attack-pattern--648f995e-9c3a-41e4-aeee-98bb41037426">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--faf2b40e-5981-433f-aa46-17458e0026f7" target="attack-pattern--2736b752-4ec5-4421-a230-8977dea7649c">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--fce6866f-9a87-4d3e-a73c-f02d8937fe0e" target="attack-pattern--0fe075d5-beac-4d02-b93e-0f874997db72">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="course-of-action--fce6866f-9a87-4d3e-a73c-f02d8937fe0e" target="attack-pattern--2877063e-1851-48d2-bcc6-bc1d2733157e">
+  <data key="d7">mitigates</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--00e7d565-9883-4ee5-b642-8fd17fd6a3f5" target="attack-pattern--063b5b92-5361-481a-9c3f-95492ed9a2d8">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--00e7d565-9883-4ee5-b642-8fd17fd6a3f5" target="attack-pattern--ea0c980c-5cf0-43a7-a049-59c4c207566e">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--00e7d565-9883-4ee5-b642-8fd17fd6a3f5" target="attack-pattern--63b6942d-8359-4506-bfb3-cf87aa8120ee">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--00e7d565-9883-4ee5-b642-8fd17fd6a3f5" target="attack-pattern--ba203963-3182-41ac-af14-7e7ebc83cd61">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--083bb47b-02c8-4423-81a2-f9ef58572974" target="attack-pattern--2fedbe69-581f-447d-8a78-32ee7db939a9">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--083bb47b-02c8-4423-81a2-f9ef58572974" target="attack-pattern--d5a69cfb-fc2a-46cb-99eb-74b236db5061">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--083bb47b-02c8-4423-81a2-f9ef58572974" target="attack-pattern--2736b752-4ec5-4421-a230-8977dea7649c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--083bb47b-02c8-4423-81a2-f9ef58572974" target="attack-pattern--5e0f75da-e108-4688-a6de-a4f07cc2cbe3">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--083bb47b-02c8-4423-81a2-f9ef58572974" target="attack-pattern--3de230d4-3e42-4041-b089-17e1128feded">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--083bb47b-02c8-4423-81a2-f9ef58572974" target="attack-pattern--25852363-5968-4673-b81d-341d5ed90bd1">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--083bb47b-02c8-4423-81a2-f9ef58572974" target="attack-pattern--1b22b676-9347-4c55-9a35-ef0dc653db5b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--083bb47b-02c8-4423-81a2-f9ef58572974" target="attack-pattern--648f995e-9c3a-41e4-aeee-98bb41037426">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--ba203963-3182-41ac-af14-7e7ebc83cd61">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--2fedbe69-581f-447d-8a78-32ee7db939a9">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--53a48c74-0025-45f4-b04a-baa853df8204">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--2d0d40ad-22fa-4cc8-b264-072557e1364b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--ead7bd34-186e-4c79-9a4d-b65bcce6ed9d">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--b52870cc-83f3-473c-b895-72d91751030b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--097924ce-a9a9-4039-8591-e0deedfb8722">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--ab390887-afc0-4715-826d-b1b167d522ae">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--24a9253e-8948-4c98-b751-8e2aee53127c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--c267bbee-bb59-47fe-85e0-3ed210337c21">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--c9a8d958-fcdb-40d2-af4c-461c8031651a">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--2736b752-4ec5-4421-a230-8977dea7649c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--e076cca8-2f08-45c9-aff7-ea5ac798b387">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--e6c31185-8040-4267-83d3-b217b8a92f07">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--85a45294-08f1-4539-bf00-7da08aa7b0ee">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--1af9e3fd-2bcc-414d-adbd-fe3b95c02ca1">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--fc5fda7e-6b2c-4457-b036-759896a2efa2">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--09a61657-46e1-439e-b3ed-3e4556a78243">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--e72425f8-9ae6-41d3-bfdb-e1b865e60722">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--4c2e1408-9d68-4187-8e6b-a77bc52700ec">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--36e9f5bc-ac13-4da4-a2f4-01f4877d9004">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--3b6b9246-43f8-4c69-ad7a-2b11cfe0a0d9">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--088f1d6e-0783-47c6-9923-9c79b2af43d4" target="attack-pattern--38213338-1aab-479d-949b-c81b66ccca5c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--2eaa5319-5e1e-4dd7-bbc4-566fced3964a" target="attack-pattern--85a45294-08f1-4539-bf00-7da08aa7b0ee">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--2eaa5319-5e1e-4dd7-bbc4-566fced3964a" target="attack-pattern--7830cfcf-b268-4ac0-a69e-73c6affbae9a">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--2eaa5319-5e1e-4dd7-bbc4-566fced3964a" target="attack-pattern--63b6942d-8359-4506-bfb3-cf87aa8120ee">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--2eaa5319-5e1e-4dd7-bbc4-566fced3964a" target="attack-pattern--2736b752-4ec5-4421-a230-8977dea7649c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--2eaa5319-5e1e-4dd7-bbc4-566fced3964a" target="attack-pattern--ead7bd34-186e-4c79-9a4d-b65bcce6ed9d">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--4dcff507-5af8-47ce-964a-8d9569e9ccfe" target="attack-pattern--09a61657-46e1-439e-b3ed-3e4556a78243">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--4dcff507-5af8-47ce-964a-8d9569e9ccfe" target="attack-pattern--b52870cc-83f3-473c-b895-72d91751030b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--4dcff507-5af8-47ce-964a-8d9569e9ccfe" target="attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--4dcff507-5af8-47ce-964a-8d9569e9ccfe" target="attack-pattern--1b22b676-9347-4c55-9a35-ef0dc653db5b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--4dcff507-5af8-47ce-964a-8d9569e9ccfe" target="attack-pattern--d5a69cfb-fc2a-46cb-99eb-74b236db5061">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--4dcff507-5af8-47ce-964a-8d9569e9ccfe" target="attack-pattern--36e9f5bc-ac13-4da4-a2f4-01f4877d9004">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--4dcff507-5af8-47ce-964a-8d9569e9ccfe" target="attack-pattern--fc5fda7e-6b2c-4457-b036-759896a2efa2">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--4dcff507-5af8-47ce-964a-8d9569e9ccfe" target="attack-pattern--2883c520-7957-46ca-89bd-dab1ad53b601">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--54cc1d4f-5c53-4f0e-9ef5-11b4998e82e4" target="attack-pattern--e076cca8-2f08-45c9-aff7-ea5ac798b387">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--54cc1d4f-5c53-4f0e-9ef5-11b4998e82e4" target="attack-pattern--648f995e-9c3a-41e4-aeee-98bb41037426">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--54cc1d4f-5c53-4f0e-9ef5-11b4998e82e4" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--5719af9d-6b16-46f9-9b28-fb019541ddbb" target="attack-pattern--ead7bd34-186e-4c79-9a4d-b65bcce6ed9d">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--5719af9d-6b16-46f9-9b28-fb019541ddbb" target="attack-pattern--85a45294-08f1-4539-bf00-7da08aa7b0ee">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--5719af9d-6b16-46f9-9b28-fb019541ddbb" target="attack-pattern--63b6942d-8359-4506-bfb3-cf87aa8120ee">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--58eddbaf-7416-419a-ad7b-e65b9d4c3b55" target="attack-pattern--63b6942d-8359-4506-bfb3-cf87aa8120ee">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--58eddbaf-7416-419a-ad7b-e65b9d4c3b55" target="attack-pattern--c267bbee-bb59-47fe-85e0-3ed210337c21">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--58eddbaf-7416-419a-ad7b-e65b9d4c3b55" target="attack-pattern--b5b9bacb-97f2-4249-b804-47fd44de1f95">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--5af7a825-2d9f-400d-931a-e00eb9e27f48" target="attack-pattern--63b6942d-8359-4506-bfb3-cf87aa8120ee">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--5af7a825-2d9f-400d-931a-e00eb9e27f48" target="attack-pattern--138979ba-0430-4de6-a128-2fc0b056ba36">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--5af7a825-2d9f-400d-931a-e00eb9e27f48" target="attack-pattern--a81696ef-c106-482c-8f80-59c30f2569fb">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--6108f800-10b8-4090-944e-be579f01263d" target="attack-pattern--9a505987-ab05-4f46-a9a6-6441442eec3b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--6108f800-10b8-4090-944e-be579f01263d" target="attack-pattern--38213338-1aab-479d-949b-c81b66ccca5c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--68dca94f-c11d-421e-9287-7c501108e18c" target="attack-pattern--fa3aa267-da22-4bdd-961f-03223322a8d5">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--68dca94f-c11d-421e-9287-7c501108e18c" target="attack-pattern--3405891b-16aa-4bd7-bd7c-733501f9b20f">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--68dca94f-c11d-421e-9287-7c501108e18c" target="attack-pattern--b7e13ee8-182c-4f19-92a4-a88d7d855d54">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--6a0d0ea9-b2c4-43fe-a552-ac41a3009dc5" target="attack-pattern--8e7089d3-fba2-44f8-94a8-9a79c53920c4">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--6a0d0ea9-b2c4-43fe-a552-ac41a3009dc5" target="attack-pattern--063b5b92-5361-481a-9c3f-95492ed9a2d8">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--6a0d0ea9-b2c4-43fe-a552-ac41a3009dc5" target="attack-pattern--097924ce-a9a9-4039-8591-e0deedfb8722">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--6a0d0ea9-b2c4-43fe-a552-ac41a3009dc5" target="attack-pattern--2fedbe69-581f-447d-8a78-32ee7db939a9">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--6a0d0ea9-b2c4-43fe-a552-ac41a3009dc5" target="attack-pattern--40b300ba-f553-48bf-862e-9471b220d455">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--6a0d0ea9-b2c4-43fe-a552-ac41a3009dc5" target="attack-pattern--3de230d4-3e42-4041-b089-17e1128feded">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--6a0d0ea9-b2c4-43fe-a552-ac41a3009dc5" target="attack-pattern--2d0d40ad-22fa-4cc8-b264-072557e1364b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--75ecdbf1-c2bb-4afc-a3f9-c8da4de8c661" target="attack-pattern--85a45294-08f1-4539-bf00-7da08aa7b0ee">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--75ecdbf1-c2bb-4afc-a3f9-c8da4de8c661" target="attack-pattern--ead7bd34-186e-4c79-9a4d-b65bcce6ed9d">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--b52870cc-83f3-473c-b895-72d91751030b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--ba203963-3182-41ac-af14-7e7ebc83cd61">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--d5a69cfb-fc2a-46cb-99eb-74b236db5061">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--53a26eee-1080-4d17-9762-2027d5a1b805">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--cfe68e93-ce94-4c0f-a57d-3aa72cedd618">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--09a61657-46e1-439e-b3ed-3e4556a78243">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--2dc2b567-8821-49f9-9045-8740f3d0b958">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--2883c520-7957-46ca-89bd-dab1ad53b601">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--e6c31185-8040-4267-83d3-b217b8a92f07">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--2aa406ed-81c3-4c1d-ba83-cfbee5a2847a">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--3067b85e-271e-4bc5-81ad-ab1a81d411e3">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--ab390887-afc0-4715-826d-b1b167d522ae">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--5a2610f6-9fff-41e1-bc27-575ca20383d4">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--5fa00fdd-4a55-4191-94a0-564181d7fec2">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--9f947a1c-3860-48a8-8af0-a2dfa3efde03">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--80099a91-4c86-4bea-9ccb-dac55d61960e" target="attack-pattern--e076cca8-2f08-45c9-aff7-ea5ac798b387">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--931e2489-8078-4f9f-85b2-a9211950e75b" target="attack-pattern--f8df6b57-14bc-425f-9a91-6f59f6799307">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--931e2489-8078-4f9f-85b2-a9211950e75b" target="attack-pattern--8d2f3bab-507c-4424-b58b-edc977bd215c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--931e2489-8078-4f9f-85b2-a9211950e75b" target="attack-pattern--8e7089d3-fba2-44f8-94a8-9a79c53920c4">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--931e2489-8078-4f9f-85b2-a9211950e75b" target="attack-pattern--138979ba-0430-4de6-a128-2fc0b056ba36">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--931e2489-8078-4f9f-85b2-a9211950e75b" target="attack-pattern--1b22b676-9347-4c55-9a35-ef0dc653db5b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--931e2489-8078-4f9f-85b2-a9211950e75b" target="attack-pattern--493832d9-cea6-4b63-abe7-9a65a6473675">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--a020a61c-423f-4195-8c46-ba1d21abba37" target="attack-pattern--63b6942d-8359-4506-bfb3-cf87aa8120ee">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--a4a98eab-b691-45d9-8c48-869ef8fefd57" target="attack-pattern--b7e13ee8-182c-4f19-92a4-a88d7d855d54">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--a4a98eab-b691-45d9-8c48-869ef8fefd57" target="attack-pattern--fa3aa267-da22-4bdd-961f-03223322a8d5">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--ac61f1f9-7bb1-465e-9b8a-c2ce8e88baf5" target="attack-pattern--2736b752-4ec5-4421-a230-8977dea7649c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--ac61f1f9-7bb1-465e-9b8a-c2ce8e88baf5" target="attack-pattern--063b5b92-5361-481a-9c3f-95492ed9a2d8">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--ac61f1f9-7bb1-465e-9b8a-c2ce8e88baf5" target="attack-pattern--ba203963-3182-41ac-af14-7e7ebc83cd61">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--ac61f1f9-7bb1-465e-9b8a-c2ce8e88baf5" target="attack-pattern--b7e13ee8-182c-4f19-92a4-a88d7d855d54">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--ac61f1f9-7bb1-465e-9b8a-c2ce8e88baf5" target="attack-pattern--63b6942d-8359-4506-bfb3-cf87aa8120ee">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--ac61f1f9-7bb1-465e-9b8a-c2ce8e88baf5" target="attack-pattern--e076cca8-2f08-45c9-aff7-ea5ac798b387">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--ac61f1f9-7bb1-465e-9b8a-c2ce8e88baf5" target="attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--ac61f1f9-7bb1-465e-9b8a-c2ce8e88baf5" target="attack-pattern--2dc2b567-8821-49f9-9045-8740f3d0b958">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--b34df04a-9d30-4d84-a03f-0d536ee19a05" target="attack-pattern--097924ce-a9a9-4039-8591-e0deedfb8722">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--b34df04a-9d30-4d84-a03f-0d536ee19a05" target="attack-pattern--2d0d40ad-22fa-4cc8-b264-072557e1364b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--b34df04a-9d30-4d84-a03f-0d536ee19a05" target="attack-pattern--e076cca8-2f08-45c9-aff7-ea5ac798b387">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--b34df04a-9d30-4d84-a03f-0d536ee19a05" target="attack-pattern--e6c31185-8040-4267-83d3-b217b8a92f07">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--b34df04a-9d30-4d84-a03f-0d536ee19a05" target="attack-pattern--24a9253e-8948-4c98-b751-8e2aee53127c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--25852363-5968-4673-b81d-341d5ed90bd1">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--e076cca8-2f08-45c9-aff7-ea5ac798b387">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--40b300ba-f553-48bf-862e-9471b220d455">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--c9a8d958-fcdb-40d2-af4c-461c8031651a">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--d67adac8-e3b9-44f9-9e6d-6c2a7d69dbe4">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--097924ce-a9a9-4039-8591-e0deedfb8722">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--2883c520-7957-46ca-89bd-dab1ad53b601">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--d5a69cfb-fc2a-46cb-99eb-74b236db5061">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--2fedbe69-581f-447d-8a78-32ee7db939a9">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--ead7bd34-186e-4c79-9a4d-b65bcce6ed9d">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--3067b85e-271e-4bc5-81ad-ab1a81d411e3">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--cfe68e93-ce94-4c0f-a57d-3aa72cedd618">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--38213338-1aab-479d-949b-c81b66ccca5c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--d3aa1058-b1b3-4c29-a3ba-9a9b90ccd93b" target="attack-pattern--493832d9-cea6-4b63-abe7-9a65a6473675">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e221eb77-1502-4129-af1d-fe1ad55e7ec6" target="attack-pattern--138979ba-0430-4de6-a128-2fc0b056ba36">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e221eb77-1502-4129-af1d-fe1ad55e7ec6" target="attack-pattern--53a26eee-1080-4d17-9762-2027d5a1b805">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e221eb77-1502-4129-af1d-fe1ad55e7ec6" target="attack-pattern--493832d9-cea6-4b63-abe7-9a65a6473675">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e221eb77-1502-4129-af1d-fe1ad55e7ec6" target="attack-pattern--063b5b92-5361-481a-9c3f-95492ed9a2d8">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--d5a69cfb-fc2a-46cb-99eb-74b236db5061">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--24a9253e-8948-4c98-b751-8e2aee53127c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--d67adac8-e3b9-44f9-9e6d-6c2a7d69dbe4">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--1b22b676-9347-4c55-9a35-ef0dc653db5b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--2fedbe69-581f-447d-8a78-32ee7db939a9">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--3f1f4ccb-9be2-4ff8-8f69-dd972221169b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--063b5b92-5361-481a-9c3f-95492ed9a2d8">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--1af9e3fd-2bcc-414d-adbd-fe3b95c02ca1">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--2d0d40ad-22fa-4cc8-b264-072557e1364b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--19a71d1e-6334-4233-8260-b749cae37953">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--ea0c980c-5cf0-43a7-a049-59c4c207566e">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--25dfc8ad-bd73-4dfd-84a9-3c3d383f76e9">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--1c478716-71d9-46a4-9a53-fa5d576adb60">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--8e7089d3-fba2-44f8-94a8-9a79c53920c4">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--e33c7ecc-5a38-497f-beb2-a9a2049a4c20">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--138979ba-0430-4de6-a128-2fc0b056ba36">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--40b300ba-f553-48bf-862e-9471b220d455">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--56ddc820-6cfb-407f-850b-52c035d123ac">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--493832d9-cea6-4b63-abe7-9a65a6473675">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--a81696ef-c106-482c-8f80-59c30f2569fb">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--3de230d4-3e42-4041-b089-17e1128feded">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--008b8f56-6107-48be-aa9f-746f927dbb61">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--4c2e1408-9d68-4187-8e6b-a77bc52700ec">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--e401d4fe-f0c9-44f0-98e6-f93487678808" target="attack-pattern--2bb4d762-bf4a-4bc3-9318-15cc6a354163">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--ff6840c9-4c87-4d07-bbb6-9f50aa33d498" target="attack-pattern--fa3aa267-da22-4bdd-961f-03223322a8d5">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="malware--ff6840c9-4c87-4d07-bbb6-9f50aa33d498" target="attack-pattern--b7e13ee8-182c-4f19-92a4-a88d7d855d54">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--8d2f3bab-507c-4424-b58b-edc977bd215c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--d67adac8-e3b9-44f9-9e6d-6c2a7d69dbe4">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="malware--e221eb77-1502-4129-af1d-fe1ad55e7ec6">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--1c478716-71d9-46a4-9a53-fa5d576adb60">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--63b6942d-8359-4506-bfb3-cf87aa8120ee">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--1af9e3fd-2bcc-414d-adbd-fe3b95c02ca1">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--008b8f56-6107-48be-aa9f-746f927dbb61">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--e6c31185-8040-4267-83d3-b217b8a92f07">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--1b22b676-9347-4c55-9a35-ef0dc653db5b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--ead7bd34-186e-4c79-9a4d-b65bcce6ed9d">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--25dfc8ad-bd73-4dfd-84a9-3c3d383f76e9">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--b0628bfc-5376-4a38-9182-f324501cb4cf">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--e33c7ecc-5a38-497f-beb2-a9a2049a4c20">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--3f1f4ccb-9be2-4ff8-8f69-dd972221169b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--d5a69cfb-fc2a-46cb-99eb-74b236db5061">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--40b300ba-f553-48bf-862e-9471b220d455">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="malware--54cc1d4f-5c53-4f0e-9ef5-11b4998e82e4">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--a81696ef-c106-482c-8f80-59c30f2569fb">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--46421788-b6e1-4256-b351-f8beffd1afba" target="attack-pattern--b5b9bacb-97f2-4249-b804-47fd44de1f95">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--45a98f02-852f-49b2-94c0-c63207bebbbf" target="attack-pattern--9a505987-ab05-4f46-a9a6-6441442eec3b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--45a98f02-852f-49b2-94c0-c63207bebbbf" target="attack-pattern--24a9253e-8948-4c98-b751-8e2aee53127c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--45a98f02-852f-49b2-94c0-c63207bebbbf" target="attack-pattern--2dc2b567-8821-49f9-9045-8740f3d0b958">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--45a98f02-852f-49b2-94c0-c63207bebbbf" target="malware--80099a91-4c86-4bea-9ccb-dac55d61960e">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--45a98f02-852f-49b2-94c0-c63207bebbbf" target="attack-pattern--63b6942d-8359-4506-bfb3-cf87aa8120ee">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--45a98f02-852f-49b2-94c0-c63207bebbbf" target="attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--45a98f02-852f-49b2-94c0-c63207bebbbf" target="attack-pattern--53a26eee-1080-4d17-9762-2027d5a1b805">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--45a98f02-852f-49b2-94c0-c63207bebbbf" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--45a98f02-852f-49b2-94c0-c63207bebbbf" target="attack-pattern--ead7bd34-186e-4c79-9a4d-b65bcce6ed9d">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--45a98f02-852f-49b2-94c0-c63207bebbbf" target="attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--45a98f02-852f-49b2-94c0-c63207bebbbf" target="attack-pattern--40b300ba-f553-48bf-862e-9471b220d455">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--1c63d4ec-0a75-4daa-b1df-0d11af3d3cc1" target="attack-pattern--7830cfcf-b268-4ac0-a69e-73c6affbae9a">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--1c63d4ec-0a75-4daa-b1df-0d11af3d3cc1" target="malware--083bb47b-02c8-4423-81a2-f9ef58572974">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--1c63d4ec-0a75-4daa-b1df-0d11af3d3cc1" target="attack-pattern--5e0f75da-e108-4688-a6de-a4f07cc2cbe3">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--fbd29c89-18ba-4c2d-b792-51c0adee049f" target="attack-pattern--c5e3cdbc-0387-4be9-8f83-ff5c0865f377">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--fbd29c89-18ba-4c2d-b792-51c0adee049f" target="attack-pattern--648f995e-9c3a-41e4-aeee-98bb41037426">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--fbd29c89-18ba-4c2d-b792-51c0adee049f" target="attack-pattern--2dc2b567-8821-49f9-9045-8740f3d0b958">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--190242d7-73fc-4738-af68-20162f7a5aae" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--190242d7-73fc-4738-af68-20162f7a5aae" target="attack-pattern--c5e3cdbc-0387-4be9-8f83-ff5c0865f377">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--190242d7-73fc-4738-af68-20162f7a5aae" target="attack-pattern--648f995e-9c3a-41e4-aeee-98bb41037426">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--190242d7-73fc-4738-af68-20162f7a5aae" target="attack-pattern--7830cfcf-b268-4ac0-a69e-73c6affbae9a">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--381fcf73-60f6-4ab2-9991-6af3cbc35192" target="malware--2eaa5319-5e1e-4dd7-bbc4-566fced3964a">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--381fcf73-60f6-4ab2-9991-6af3cbc35192" target="attack-pattern--24a9253e-8948-4c98-b751-8e2aee53127c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--381fcf73-60f6-4ab2-9991-6af3cbc35192" target="malware--6108f800-10b8-4090-944e-be579f01263d">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--381fcf73-60f6-4ab2-9991-6af3cbc35192" target="malware--e401d4fe-f0c9-44f0-98e6-f93487678808">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--381fcf73-60f6-4ab2-9991-6af3cbc35192" target="malware--6a0d0ea9-b2c4-43fe-a552-ac41a3009dc5">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--381fcf73-60f6-4ab2-9991-6af3cbc35192" target="attack-pattern--32632a95-6856-47b9-9ab7-fea5cd7dce00">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--381fcf73-60f6-4ab2-9991-6af3cbc35192" target="malware--54cc1d4f-5c53-4f0e-9ef5-11b4998e82e4">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--381fcf73-60f6-4ab2-9991-6af3cbc35192" target="malware--5719af9d-6b16-46f9-9b28-fb019541ddbb">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--381fcf73-60f6-4ab2-9991-6af3cbc35192" target="malware--e221eb77-1502-4129-af1d-fe1ad55e7ec6">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--381fcf73-60f6-4ab2-9991-6af3cbc35192" target="attack-pattern--d67adac8-e3b9-44f9-9e6d-6c2a7d69dbe4">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--1169ff24-b35f-4d8d-8cf3-643a2834227f" target="malware--b34df04a-9d30-4d84-a03f-0d536ee19a05">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--1169ff24-b35f-4d8d-8cf3-643a2834227f" target="attack-pattern--097924ce-a9a9-4039-8591-e0deedfb8722">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--1169ff24-b35f-4d8d-8cf3-643a2834227f" target="attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--1169ff24-b35f-4d8d-8cf3-643a2834227f" target="attack-pattern--138979ba-0430-4de6-a128-2fc0b056ba36">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--1169ff24-b35f-4d8d-8cf3-643a2834227f" target="attack-pattern--b5b9bacb-97f2-4249-b804-47fd44de1f95">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--aa73efef-1418-4dbe-b43c-87a498e97234" target="attack-pattern--ead7bd34-186e-4c79-9a4d-b65bcce6ed9d">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--aa73efef-1418-4dbe-b43c-87a498e97234" target="attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--aa73efef-1418-4dbe-b43c-87a498e97234" target="malware--e401d4fe-f0c9-44f0-98e6-f93487678808">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--aa73efef-1418-4dbe-b43c-87a498e97234" target="attack-pattern--2dc2b567-8821-49f9-9045-8740f3d0b958">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--aa73efef-1418-4dbe-b43c-87a498e97234" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--aa73efef-1418-4dbe-b43c-87a498e97234" target="attack-pattern--24a9253e-8948-4c98-b751-8e2aee53127c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--aa73efef-1418-4dbe-b43c-87a498e97234" target="attack-pattern--ba203963-3182-41ac-af14-7e7ebc83cd61">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--70cab19e-1745-425e-b3db-c02cd5ff157a" target="attack-pattern--8d2f3bab-507c-4424-b58b-edc977bd215c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--70cab19e-1745-425e-b3db-c02cd5ff157a" target="attack-pattern--e5de767e-f513-41cd-aa15-33f6ce5fbf92">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--70cab19e-1745-425e-b3db-c02cd5ff157a" target="attack-pattern--35392fb4-a31d-4c6a-b9f2-1c65b7f5e6b9">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--70cab19e-1745-425e-b3db-c02cd5ff157a" target="attack-pattern--83ebd22f-b401-4d59-8219-2294172cf916">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--70cab19e-1745-425e-b3db-c02cd5ff157a" target="attack-pattern--097924ce-a9a9-4039-8591-e0deedfb8722">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--70cab19e-1745-425e-b3db-c02cd5ff157a" target="attack-pattern--8535b71e-3c12-4258-a4ab-40257a1becc4">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--70cab19e-1745-425e-b3db-c02cd5ff157a" target="attack-pattern--e33c7ecc-5a38-497f-beb2-a9a2049a4c20">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--70cab19e-1745-425e-b3db-c02cd5ff157a" target="attack-pattern--2877063e-1851-48d2-bcc6-bc1d2733157e">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--70cab19e-1745-425e-b3db-c02cd5ff157a" target="attack-pattern--b14395bd-5419-4ef4-9bd8-696936f509bb">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--70cab19e-1745-425e-b3db-c02cd5ff157a" target="attack-pattern--2900bbd8-308a-4274-b074-5b8bde8347bc">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--70cab19e-1745-425e-b3db-c02cd5ff157a" target="attack-pattern--40b300ba-f553-48bf-862e-9471b220d455">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--70cab19e-1745-425e-b3db-c02cd5ff157a" target="attack-pattern--56ddc820-6cfb-407f-850b-52c035d123ac">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--8fda050f-470d-4401-994e-35c1a6c301de" target="attack-pattern--b5b9bacb-97f2-4249-b804-47fd44de1f95">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--8fda050f-470d-4401-994e-35c1a6c301de" target="attack-pattern--1b22b676-9347-4c55-9a35-ef0dc653db5b">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--8fda050f-470d-4401-994e-35c1a6c301de" target="attack-pattern--8bb4538f-f16f-49f0-a431-70b5444c7349">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--8fda050f-470d-4401-994e-35c1a6c301de" target="attack-pattern--138979ba-0430-4de6-a128-2fc0b056ba36">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--8fda050f-470d-4401-994e-35c1a6c301de" target="attack-pattern--f8df6b57-14bc-425f-9a91-6f59f6799307">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--8fda050f-470d-4401-994e-35c1a6c301de" target="attack-pattern--63b6942d-8359-4506-bfb3-cf87aa8120ee">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--c93fccb1-e8e8-42cf-ae33-2ad1d183913a" target="malware--75ecdbf1-c2bb-4afc-a3f9-c8da4de8c661">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--c93fccb1-e8e8-42cf-ae33-2ad1d183913a" target="attack-pattern--648f995e-9c3a-41e4-aeee-98bb41037426">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--4ca1929c-7d64-4aab-b849-badbfc0c760d" target="attack-pattern--648f995e-9c3a-41e4-aeee-98bb41037426">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--4ca1929c-7d64-4aab-b849-badbfc0c760d" target="attack-pattern--2dc2b567-8821-49f9-9045-8740f3d0b958">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--4ca1929c-7d64-4aab-b849-badbfc0c760d" target="attack-pattern--e076cca8-2f08-45c9-aff7-ea5ac798b387">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--4ca1929c-7d64-4aab-b849-badbfc0c760d" target="attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--4ca1929c-7d64-4aab-b849-badbfc0c760d" target="attack-pattern--7830cfcf-b268-4ac0-a69e-73c6affbae9a">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--df8eb785-70f8-4300-b444-277ba849083d" target="attack-pattern--2dc2b567-8821-49f9-9045-8740f3d0b958">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--df8eb785-70f8-4300-b444-277ba849083d" target="attack-pattern--40b300ba-f553-48bf-862e-9471b220d455">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--df8eb785-70f8-4300-b444-277ba849083d" target="attack-pattern--1c5cf58c-a34a-40d7-82f4-f987cdfc2b91">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--df8eb785-70f8-4300-b444-277ba849083d" target="attack-pattern--77d9c726-b53e-481d-8bcc-1068aebfbb9d">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="campaign--df8eb785-70f8-4300-b444-277ba849083d" target="attack-pattern--24a9253e-8948-4c98-b751-8e2aee53127c">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--3753cc21-2dae-4dfb-8481-d004e74502cc" target="malware--ac61f1f9-7bb1-465e-9b8a-c2ce8e88baf5">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--dd2d9ca6-505b-4860-a604-233685b802c7" target="malware--a020a61c-423f-4195-8c46-ba1d21abba37">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--9538b1a4-4120-4e2d-bf59-3b11fcab05a4" target="malware--80099a91-4c86-4bea-9ccb-dac55d61960e">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--9538b1a4-4120-4e2d-bf59-3b11fcab05a4" target="attack-pattern--5e0f75da-e108-4688-a6de-a4f07cc2cbe3">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--9538b1a4-4120-4e2d-bf59-3b11fcab05a4" target="attack-pattern--7830cfcf-b268-4ac0-a69e-73c6affbae9a">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--2a7914cf-dff3-428d-ab0f-1014d1c28aeb" target="malware--5af7a825-2d9f-400d-931a-e00eb9e27f48">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--2a7914cf-dff3-428d-ab0f-1014d1c28aeb" target="malware--a020a61c-423f-4195-8c46-ba1d21abba37">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--c77c5576-ca19-42ed-a36f-4b4486a84133" target="malware--ac61f1f9-7bb1-465e-9b8a-c2ce8e88baf5">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+<edge source="intrusion-set--00f67a77-86a4-4adf-be26-1a54fc713340" target="malware--e221eb77-1502-4129-af1d-fe1ad55e7ec6">
+  <data key="d7">uses</data>
+  <data key="d8">ics</data>
+</edge>
+</graph></graphml>

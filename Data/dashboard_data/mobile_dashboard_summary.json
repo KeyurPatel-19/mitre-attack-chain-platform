@@ -1,0 +1,10 @@
+{
+  "dataset": "mobile",
+  "node_count": 291,
+  "edge_count": 1634,
+  "cluster_count": 5,
+  "anomaly_count": 15,
+  "datasets_present": [
+    "mobile"
+  ]
+}
