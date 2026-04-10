@@ -1,0 +1,9 @@
+# Ignore data folders
+Data/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
